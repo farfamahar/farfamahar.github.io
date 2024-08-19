@@ -1,0 +1,96 @@
+---
+const currentPage = Astro.url.pathname; // Get the current URL path
+---
+<aside class="sidebar">
+    <a class="text-decoration-none" href="/"><h1>Farfama</h1></a>
+    <nav>
+        <ul>
+            <li>
+                <a href="/games" class={currentPage === '/games' ? 'active' : ''} >Games</a>
+            </li>
+            <li>
+                <a href="/web" class={currentPage === '/web' ? 'active' : ''}>Web</a>
+            </li>
+            <li>
+                <a href="/blog" class={currentPage.startsWith('/blog') ? 'active' : ''}>Blog</a>
+            </li>
+        </ul>
+    </nav>
+</aside>
+
+<style>
+    			@font-face {
+  				font-family: 'Geist-Light';
+  				src: url('/fonts/Geist-Light.woff') format('woff');
+  				font-weight: normal;
+  				font-style: normal;
+  				font-display: swap;
+			}
+			@font-face {
+  				font-family: 'Geist-Regular';
+  				src: url('/fonts/Geist-Regular.woff') format('woff');
+  				font-weight: normal;
+  				font-style: normal;
+  				font-display: swap;
+			}
+    
+    .text-decoration-none {
+        text-decoration: none;
+    }
+    .sidebar {
+        width: 180px;
+        padding: 0 40px;
+        background-color: #fff;
+        border-right: 1px solid #eee;
+        display: flex;
+        flex-direction: column;
+        line-height: 1.6;
+    }
+    h1 {
+        font-size: 18px;
+        margin: 0;
+        padding-top: 60px;
+        font-family: 'Geist-Regular', sans-serif;
+
+    }
+    nav {
+        margin-top: 40px;
+    }
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    nav ul li {
+        margin-bottom: 2px;
+    }
+    nav ul li a {
+        text-decoration: none;
+        color: #666;
+        font-size: 16px;
+        font-family: 'Geist-Light', sans-serif;
+
+    }
+    nav ul li a.active {
+        font-family: 'Geist-Regular', sans-serif;
+        font-weight: bold;
+        font-size: 36px;
+
+        color: #333; /* Optionally change the color */
+    }
+    .category-title {
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: #333;
+    }
+    @media (max-width: 768px) {
+        .sidebar {
+            width: 100%;
+            height: auto;
+            padding: 20px;
+            border-right: none;
+            border-bottom: 1px solid #eee;
+        }
+    }
+</style>

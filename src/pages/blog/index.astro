@@ -1,0 +1,104 @@
+---
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import BaseHead from '../../components/BaseHead.astro';
+
+
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+);
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title="Farfama" description="Farfama" />
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				font-size: 14px;
+				line-height: 1.6;
+				color: #333;
+				min-height: 100vh;
+			}
+			.content {
+				flex-grow: 1;
+				padding: 60px;
+				max-width: 1200px;
+				margin: 0 auto;
+				width: 100%;
+				box-sizing: border-box;
+
+			}
+
+			.blog-post{
+
+			}
+
+			.blog-title {
+				
+			}
+
+			.blog-date{
+				font-size: 12px;
+				text-decoration: none;
+			}
+
+			a{
+				color: #666;
+			}
+
+			.text-content {
+				flex-grow: 1;
+				margin-bottom: 12px;
+				text-decoration: none;
+				
+			}
+			p {
+				margin: 0;
+			}
+
+			.text-decoration-none {
+				text-decoration: none;
+			}
+
+			@media (max-width: 768px) {
+				body {
+					flex-direction: column;
+				}
+				.content {
+					flex-direction: column;
+					padding: 20px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Sidebar />
+		<div class="content">
+			<div class="text-content">
+				{
+					posts.map((post) => (
+							<div class="text-content tex">
+							<a class="text-decoration-none" href={`/blog/${post.slug}/`}>
+								<p class="blog-title">{post.data.title}</h4>
+							</a>
+								<p class="blog-date">
+									<FormattedDate date={post.data.pubDate} />
+								</p>
+						</div>
+					))
+				}
+			</div>
+		</div>
+	</body>
+</html>
+
+
+
