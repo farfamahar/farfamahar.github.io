@@ -6,10 +6,10 @@ const currentPage = Astro.url.pathname; // Get the current URL path
     <nav>
         <ul>
             <li>
-                <a href="/games" class={currentPage === '/games' ? 'active' : ''} >Games</a>
+                <a href="/games" class={currentPage.startsWith('/games') ? 'active' : ''} >Games</a>
             </li>
             <li>
-                <a href="/web" class={currentPage === '/web' ? 'active' : ''}>Web</a>
+                <a href="/web" class={currentPage.startsWith('/web') ? 'active' : ''}>Web</a>
             </li>
             <li>
                 <a href="/blog" class={currentPage.startsWith('/blog') ? 'active' : ''}>Blog</a>
