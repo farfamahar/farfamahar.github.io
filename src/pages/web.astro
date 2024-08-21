@@ -9,14 +9,14 @@ const apps = [
     images: ["/urban-lens-cover.webp"],
     description: "Created for experimental urban games festival, Playtest Kyoto 2024. Use your phone to capture the textures, materials, and patterns of Kyoto. Urban Lens encourages you to notice the details of the city to create clothing patterns for characters.",
 	stack: [ "React", "JavaScript", "TailwindCSS", 'Vite', "Google Firebase","Vercel"],
-	link: []
+	link: "https://www.urbanlens.city/"
   },
   {
     name: "Kana Cards",
     images: ["/kanacards.png"],
     description: "Minimal ReactJS web app for practicing and learning Hiragana and Katakana. Features, mnemonic learn mode, audio pronunciation, quiz mode with difficulty levels, quiz filters, and font randomizers.",
 	stack: ["React", "JavaScript", "TailwindCSS", 'Vite', "Vercel"],
-	link: []
+	link: "https://kana-cards.vercel.app/"
 
   },
   {
@@ -24,6 +24,7 @@ const apps = [
     images: ["/geotune.png"],
     description: "Play a unique tune based on your precise gps location. Change from sine, square, and sawtooth audio waves. Loop your tune. Uses the Web Audio API and Geolocation API.",
 	stack: ["JavaScript", "Web Audio API", 'Vite', "Vercel"],
+	link: "https://geo-tune.vercel.app/"
 
   },
   {
@@ -31,6 +32,7 @@ const apps = [
     images: ["/cherry-blossom-p5js.png"],
     description: "Generative cherry blossom tree art made using p5.js",
 	stack: ["JavaScript", "p5.js", 'Vite', "Vercel"],
+	link : "https://generative-art-sandy.vercel.app/"
 
   }
 ];
@@ -94,6 +96,10 @@ const apps = [
 			.app-description {
 				max-width: 600px;
 			}
+
+			.app-link{
+				padding-top:12px;
+			}
 			@media (max-width: 768px) {
 				body {
 					flex-direction: column;
@@ -137,9 +143,16 @@ const apps = [
 						))}
 					</div>
 					<p class="app-description">{app.description}</p>
+
 					{app.stack.map((item) => (
 					<li class="app-description">{item}</li>
 						))}
+								{ app.link ? (
+					<div class="app-link"> <a href={app.link}>Link</a></div>
+					) : (
+						''
+					)
+					}
 				</section>
 			))}
 		</div>

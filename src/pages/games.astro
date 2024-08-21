@@ -9,7 +9,7 @@ const games = [
     videoId: "WqO-qXTadPI",
     images: ["/solastalgia-cover.webp"],
     description: "A short interactive visual poem about loss, longing, and dislocation. Through the medium of games, SOLASTALGIA explores the erosion of the sense of belonging to a particular place and a feeling of distress about its transformation.",
-	link:""
+	link:"https://farfama.itch.io/solastalgia"
   },
   {
     name: "TO:RI",
@@ -23,7 +23,7 @@ const games = [
     videoId: "8OAnukQ1pC8",
     images: ["/city-ephemera-image-1.webp"],
     description: "A short interactive audio-visual experience inspired by artists Yayoi Kusama and photographer Hiroshi Sugimoto. Explore the hazy::temporality of city::ephemera.",
-	link:""
+	link:"https://infinitetears.itch.io/cityephemera"
 
   },
   {
@@ -45,14 +45,14 @@ const games = [
     videoId: "dQw4w9WgXcQ",
     images: ["/ipromise2.webp"],
     description: "The long road looms. Time based experimental liminal road that drastically alters visuals and sounds after 12am.",
-	link:""
+	link:"https://infinitetears.itch.io/i-promise"
   },
   {
     name: "First Person Anomaly",
     videoId: "dQw4w9WgXcQ",
     images: ["/first-person-a.webp"],
     description: "Interactive first person musical experience. Discovery a strange anomaly on a corrupted battlefield.",
-	link:""
+	link:"https://infinitetears.itch.io/wobniaryvarg"
   },
   {
     name: "Celestial Ascension",
@@ -176,7 +176,12 @@ const games = [
 						</div>
 					</div>
 					<p class="game-description">{game.description}</p>
+					{ game.link ? (
 					<a href={game.link}>Link</a>
+					) : (
+						''
+					)
+					}
 				</section>
 			))}
 		</div>
