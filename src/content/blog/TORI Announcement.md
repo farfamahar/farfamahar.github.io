@@ -1,5 +1,5 @@
 ---
-title: 'TO:RI has been awarded the Game Devs of Color Expo Grant!'
+title: 'TO:RI Announcement + GDoCExpo Grant Award!'
 description: ''
 pubDate: 'Sep 23 2024'
 heroImage: ''
