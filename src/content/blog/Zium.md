@@ -15,7 +15,7 @@ One of the projects I've been working on for the last few months, titled Movemen
 <br>
 
 
-<img src="/public/movements-modulations-image-1.webp"/>
+<img src="/movements-modulations-image-1.webp"/>
 
 
 The Zium is a virtual museum run by artist [Michael Berto](https://pawsmenu.info/). Since its inception, there have been three releases: The Zium Museum, The Zium Garden, and The Zium Gallery, and now, The Zium Exposition. I was so happy to be invited to collaborate on this newest release of The Zium. Playing the original release nearly five years ago was a major inspiration for me, so it's a bit surreal now to be part of this large-scale project.
@@ -29,6 +29,9 @@ For my piece, I teamed up with musician Greg Nunn. He creates incredible experim
 <br>
 
 I hope you enjoy Movements and Modulations. I'll talk about it in more detail another time, but for now, please enjoy the full experience of The Zium Exposition. With over 40 artists involved in this project, take your time and fully explore every corner.
+
+
+
 
 
 
