@@ -5,7 +5,7 @@ pubDate: 'Mar 6 2025'
 heroImage: ''
 ---
 
-In November, I received a $5000 grant from [Game Devs of Color Expo](https://www.gamedevsofcolor.org/) to help with the development of this project. Since then I've wrapped up two other projects, [The Light of Our Yearning](https://bsky.app/profile/farfama.bsky.social/post/3lfunvztz2c2i) and [ocean::ephemera](https://infinitetears.itch.io/oceanephemera). I've also been travelling to visit family overseas which was a much needed break from thinking about anything game development related. It's been a bit of a hectic last few months but things are starting to calm down a bit and I can focus my energy on TO:RI.
+In November, I received a $5000 grant from [Game Devs of Color Expo](https://www.gamedevsofcolor.org/) to help with the development of my first commercial and large scale project, TO:RI. Since then I've wrapped up two other smaller projects, [The Light of Our Yearning](https://bsky.app/profile/farfama.bsky.social/post/3lfunvztz2c2i) and [ocean::ephemera](https://infinitetears.itch.io/oceanephemera). I've also been travelling to visit family overseas which was a much needed break from thinking about anything game development related. It's been a bit of a hectic last few months but things are starting to calm down a bit and I can focus my energy on TO:RI.
 
 <br>
 
