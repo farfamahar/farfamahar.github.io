@@ -6,11 +6,8 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import BaseHead from '../../components/BaseHead.astro';
 
+const toriMicroBlog = (await getCollection('tori'));
 
-
-const posts = (await getCollection('blog')).sort(
-	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
-);
 
 ---
 
@@ -84,18 +81,27 @@ const posts = (await getCollection('blog')).sort(
 		<Sidebar />
 		<div class="content">
 			<div class="text-content">
-				{
-					posts.map((post) => (
-							<div class="text-content tex">
-							<a class="text-decoration-none" href={`/blog/${post.slug}/`}>
-								<p class="blog-title">{post.data.title}</h4>
-							</a>
-								<p class="blog-date">
-									<FormattedDate date={post.data.pubDate} />
-								</p>
-						</div>
-					))
-				}
+
+                <div class="columns">
+                    <div class="column">
+                      {toriMicroBlog.filter((post) => post.data.title !== "TO:RI Microblog").map((post) => (
+                        <div class="text-content">
+                          <a class="text-decoration-none" href={`/tori/${post.slug}/`}>
+                            <p class="blog-title">{post.data.title}</p>
+                          </a>
+                        </div>
+                      ))}
+                    </div>
+                    <div class="column">
+                      {toriMicroBlog.filter((post) => post.data.title === "TO:RI Microblog").map((post) => (
+                        <div class="text-content">
+                          <a class="text-decoration-none" href={`/tori/${post.slug}/`}>
+                            <p class="blog-title">{post.data.title}</p>
+                          </a>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
 			</div>
 		</div>
 	</body>

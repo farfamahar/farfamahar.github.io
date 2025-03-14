@@ -1,0 +1,20 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BlogPost from '../../layouts/MicroBlog.astro';
+import Sidebar from '../../components/Sidebar.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('tori');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post,
+	}));
+}
+type Props = CollectionEntry<'tori'>;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+<BlogPost {...post.data}>
+	<Content />
+</BlogPost>
