@@ -19,6 +19,12 @@ Updated daily
 - Setting up Cinemachine is always weird. What's the brain? What's the virtual camera? Why does it work when I do it the wrong way? Anyways, finally got that hooked up to cameras.
 - Watched the animated film Flow. There's some good audio and visual inspiration in it.
 
+*March.16/2025*
+<br>
+- Went to the same crow spot on the Tamagawa and fed a few crows some nuts.
+- Watched the documentary 'Birders: The Central Park Effect'.
+= Worked on the purging particle effect and added some ink vfx. Still needs more fine tuning, but it's good enough for now. This sequence will have a lot of blur, so I can probably get away with it looking a bit janky.
+
 
 
 
