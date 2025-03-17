@@ -23,7 +23,7 @@ Updated daily
 <br>
 - Went to the same crow spot on the Tamagawa and fed a few crows some nuts.
 - Watched the documentary 'Birders: The Central Park Effect'.
-= Worked on the purging particle effect and added some ink vfx. Still needs more fine tuning, but it's good enough for now. This sequence will have a lot of blur, so I can probably get away with it looking a bit janky.
+- Worked on the purging particle effect and added some ink vfx. Still needs more fine tuning, but it's good enough for now. This sequence will have a lot of blur, so I can probably get away with it looking a bit janky.
 
 
 
