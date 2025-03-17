@@ -25,6 +25,12 @@ Updated daily
 - Watched the documentary 'Birders: The Central Park Effect'.
 - Worked on the purging particle effect and added some ink vfx. Still needs more fine tuning, but it's good enough for now. This sequence will have a lot of blur, so I can probably get away with it looking a bit janky.
 
+*March.17/2025*
+<br>
+- Watched 'kill gameplay' rant by droqen on Youtube this morning. It was a good reminder about why I don't like to focus on gameplay and loops. Made me rant a bit on bluesky too.
+- Cleaned up and organized the projects assets folder.
+- Cut out some more bird images from the Japanese bird encyclopedia book I bought at a Book Off. I find it relaxing to do. Eventually I'll put them all around my desk to keep me inspired and surrounded my birds.
+
 
 
 
