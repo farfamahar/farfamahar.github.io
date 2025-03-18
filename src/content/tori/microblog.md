@@ -31,6 +31,13 @@ Updated daily
 - Cleaned up and organized the projects assets folder.
 - Cut out some more bird images from the Japanese bird encyclopedia book I bought at a Book Off. I find it relaxing to do. Eventually I'll put them all around my desk to keep me inspired and surrounded my birds.
 
+*March.18/2025*
+<br>
+- Fed some more crows at the river. A group of pigeons came too. And then a huge group of bird watchers. This really is the bird spot in the city.
+- Added a bird flock feature to the game. I can customize the prefab, size, direction, avoidance and speed. Very easy way to add a range of dynamic environmental details. Now I just need to wait for a sale on the 50 bird assets I want to buy so I can really make good use of this script.
+- Added some butterfly particle effects to the plant story ending.
+- I'm at a small creative block on the story. There are two ways I want to tell it. Linear vs Non-Linear. For now, I'll focus on the technical framework to make each of these methods possible. I'll need to team up more closely with the writer and get inspiration to fully realize the narrative structure.
+
 
 
 
