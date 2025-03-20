@@ -43,6 +43,12 @@ Updated daily
 - Public holiday on Thursday so I went out to support my friend at a music event. He was VJing for a butoh dancer group. Butoh dance in some form is part of the visuals I want to add to this, so nice to see some live inspiration.
 - Coming home at 6am and seeing the early morning sky is stunning. There's a stillness in the atmosphere. The hustle of the day hasn't begun. It's just sky and you. I'll need to curate some good skyboxes and volumetrics eventually. I have countless pictures of skies for inspiration.
 
+*March.20/2025*
+<br>
+- There were a large group of crows at the river today. I guess they know this is the place to get some quality food. I went there during the golden hour and it was serene. Mind completely in the present.
+- Cleaned up the audio assets folder and made some adjustments to the whale dream sequence.
+- Noticed that there is a consistent frame stutter every 10 seconds. Profiler spits out a bunch of information I don't understand. 100MB .txt file?! 
+
 
 
 
