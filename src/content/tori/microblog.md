@@ -38,6 +38,11 @@ Updated daily
 - Added some butterfly particle effects to the plant story ending.
 - I'm at a small creative block on the story. There are two ways I want to tell it. Linear vs Non-Linear. For now, I'll focus on the technical framework to make each of these methods possible. I'll need to team up more closely with the writer and get inspiration to fully realize the narrative structure.
 
+*March.19/2025*
+<br>
+- Public holiday on Thursday so I went out to support my friend at a music event. He was VJing for a butoh dancer group. Butoh dance in some form is part of the visuals I want to add to this, so nice to see some live inspiration.
+- Coming home at 6am and seeing the early morning sky is stunning. There's a stillness in the atmosphere. The hustle of the day hasn't begun. It's just sky and you. I'll need to curate some good skyboxes and volumetrics eventually. I have countless pictures of skies for inspiration.
+
 
 
 
