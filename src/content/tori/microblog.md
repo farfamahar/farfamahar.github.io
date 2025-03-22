@@ -53,6 +53,11 @@ Updated daily
 <br>
 - Not too many crows today. But there were two that I fed that also followed me home a bit. The walk this morning was nice. Had a chance to talk about the story and narrative structure. We have a plan. We just need to experiment with how it all fits together in practice.
 
+*March.22/2025*
+<br>
+- Went on a long river walk. Always blown away with the amount of diversity in flora and fauna. There are spots on the Tamagawa that feel like your own private space to think and reflect. Spent a lot of time oberserving bird behaviour.
+- Preparing for a long walk tomorrow with my Kizuna Mindful Walking Circle. We're going to a bird park, and I've prepared some activities to help notice and listen to birds. This is all a good excuse for me to do a lot of bird research.
+
 
 
 
