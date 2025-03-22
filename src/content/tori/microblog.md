@@ -47,7 +47,12 @@ Updated daily
 <br>
 - There were a large group of crows at the river today. I guess they know this is the place to get some quality food. I went there during the golden hour and it was serene. Mind completely in the present.
 - Cleaned up the audio assets folder and made some adjustments to the whale dream sequence.
-- Noticed that there is a consistent frame stutter every 10 seconds. Profiler spits out a bunch of information I don't understand. 100MB .txt file?! 
+- Noticed that there is a consistent frame stutter every 10 seconds. Profiler spits out a bunch of information I don't understand. 100MB .txt file?!
+
+*March.21/2025*
+<br>
+- Not too many crows today. But there were two that I fed that also followed me home a bit. The walk this morning was nice. Had a chance to talk about the story and narrative structure. We have a plan. We just need to experiment with how it all fits together in practice.
+
 
 
 
