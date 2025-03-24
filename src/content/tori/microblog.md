@@ -58,6 +58,11 @@ Updated daily
 - Went on a long river walk. Always blown away with the amount of diversity in flora and fauna. There are spots on the Tamagawa that feel like your own private space to think and reflect. Spent a lot of time oberserving bird behaviour.
 - Preparing for a long walk tomorrow with my Kizuna Mindful Walking Circle. We're going to a bird park, and I've prepared some activities to help notice and listen to birds. This is all a good excuse for me to do a lot of bird research.
 
+*March.23/2025*
+<br>
+- Spent the morning at Tokyo Port Bird Park. Saw lots of birds. Led a walk. Took notes on a lot of interesting bird behaviour. 
+- Went on another long walk near the Tamagawa in the late afternoon. Realizing that these walks are one of the most important aspects to developing TO:RI.
+
 
 
 
