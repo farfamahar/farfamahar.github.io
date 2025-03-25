@@ -70,9 +70,9 @@ Updated daily
 
 *March.25/2025*
 <br>
-- Early morning walk to the Tamagawa. More crows. They seem to just si in a nearby tree and wait until I leave before they start eating the nuts I leave. Understandable.
+- Early morning walk to the Tamagawa. More crows. They seem to just sit in a nearby tree and wait until I leave before they start eating the nuts. Understandable.
 - Worked on the Paint Story. Item interactions all hooked up properly. Even worked a bit on the ending sequence for this chapter.
-- Added flock behaviour that follows the mouse. I'm really looking forward to polishing up this ending. I have the vision in my head, but I think creating a mood board for this (and all other endings) would be a good idea. I'm thinking this will be chapter to use for a demo.
+- Added flock behaviour that follows the mouse. I'm really looking forward to polishing up this ending. I have the vision in my head, but I think creating a mood board for this (and all other endings) would be a good idea. I'm thinking this will be the chapter to use for a demo.
 
 
 
