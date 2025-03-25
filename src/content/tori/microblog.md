@@ -63,6 +63,21 @@ Updated daily
 - Spent the morning at Tokyo Port Bird Park. Saw lots of birds. Led a walk. Took notes on a lot of interesting bird behaviour. 
 - Went on another long walk near the Tamagawa in the late afternoon. Realizing that these walks are one of the most important aspects to developing TO:RI.
 
+*March.24/2025*
+<br>
+- Added stationary gliding behaviour. I can choose a bird prefab and have it glide naturally in one spot. Inspired by watching sparrowhawks on the Tamagawa
+- Went to a friends place to make sandwiches and talk about our relationship to games. He runs bi-weekly discussion groups on various topics. Group of 6 of us. This discussion was structured like a conversational dice game. It was a lovely time.
+
+*March.25/2025*
+<br>
+- Early morning walk to the Tamagawa. More crows. They seem to just si in a nearby tree and wait until I leave before they start eating the nuts I leave. Understandable.
+- Worked on the Paint Story. Item interactions all hooked up properly. Even worked a bit on the ending sequence for this chapter.
+- Added flock behaviour that follows the mouse. I'm really looking forward to polishing up this ending. I have the vision in my head, but I think creating a mood board for this (and all other endings) would be a good idea. I'm thinking this will be chapter to use for a demo.
+
+
+
+
+
 
 
 
