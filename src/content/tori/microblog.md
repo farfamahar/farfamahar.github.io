@@ -74,6 +74,11 @@ Updated daily
 - Worked on the Paint Story. Item interactions all hooked up properly. Even worked a bit on the ending sequence for this chapter.
 - Added flock behaviour that follows the mouse. I'm really looking forward to polishing up this ending. I have the vision in my head, but I think creating a mood board for this (and all other endings) would be a good idea. I'm thinking this will be the chapter to use for a demo.
 
+*March.26/2025*
+<br>
+- Worked on the Paint Story ending a bit more and implemented the brush stroke controller. Will probably polish this whole chapter a bit more than I usually would at this point in development. Seems like a good demo piece with a lot of visual spectacle and fun interaction.
+- Getting annoyed with this frame stutter every 10 seconds. Not sure if it's an editor thing or in the build. I guess this is a good time to start integrating continuous automated builds.
+
 
 
 
