@@ -25,6 +25,13 @@ const toriMicroBlog = (await getCollection('tori'));
 				color: #333;
 				min-height: 100vh;
 			}
+
+			h2 {
+				font-family: Arial, sans-serif;
+				text-decoration: underline;
+				font-size: 22px;
+
+			}
 			.content {
 				flex-grow: 1;
 				padding: 60px;
@@ -34,6 +41,7 @@ const toriMicroBlog = (await getCollection('tori'));
 				box-sizing: border-box;
 
 			}
+			
 
 			.blog-post{
 
@@ -82,6 +90,14 @@ const toriMicroBlog = (await getCollection('tori'));
 		<div class="content">
 			<div class="text-content">
 
+				<iframe style="display: block;
+    margin: 0 auto;" src="https://store.steampowered.com/widget/3215280/" frameborder="0" width="646" height="190"></iframe>
+
+	<iframe width="560" height="315" style="display: block;
+    margin: 0 auto;" src="https://www.youtube.com/embed/b6BziuwxucI?si=3RIqAw3klRJB-5gy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<br>
+<h2> Blog posts</h2>
                 <div class="columns">
                     <div class="column">
                       {toriMicroBlog.filter((post) => post.data.title !== "TO:RI Microblog").map((post) => (

@@ -76,8 +76,9 @@ Updated daily
 
 *March.26/2025*
 <br>
-- Worked on the Paint Story ending a bit more and implemented the brush stroke controller. Will probably polish this whole chapter a bit more than I usually would at this point in development. Seems like a good demo piece with a lot of visual spectacle and fun interaction.
+- Worked on the Paint Story ending more and implemented the brush stroke controller. Will probably polish this whole chapter a bit more than I usually would at this point in development. Seems like a good demo piece with a lot of visual spectacle and fun interaction.
 - Getting annoyed with this frame stutter every 10 seconds. Not sure if it's an editor thing or in the build. I guess this is a good time to start integrating continuous automated builds.
+- Bird emoji cursor added to blog 🐦
 
 
 
