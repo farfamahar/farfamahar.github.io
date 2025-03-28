@@ -80,6 +80,17 @@ Updated daily
 - Getting annoyed with this frame stutter every 10 seconds. Not sure if it's an editor thing or in the build. I guess this is a good time to start integrating continuous automated builds.
 - Bird emoji cursor added to blog 🐦
 
+*March.27/2025*
+<br>
+- Gave a presentation about TO:RI at a Tokyo Game Bridge event https://docs.google.com/presentation/d/1FdNOIQBas3iJPORDAoPLtHCGExrc1eWWC_qS6mHHfkc/edit?usp=sharing. I kept it brief, giving a quick overview of myself, the game, its structure, and two videos, a shorter 1 minute trailer and development compilation.
+https://youtu.be/QFjHhKfDIvQ. I've talked about this project at gæmz Tokyo so many times now that giving a presentation in a larger crowd didn't make me that nervous.
+
+*March.28/2025*
+<br>
+- Went to a live show at Hako Gallery in Yoyogi-Uehara. It was mix or electric guitar, noise, sound art, and ethereal vocals. Felt really inspired by the noise and distorted, modulated strings. A few chapters already make use of noise and broken string samples. Can't wait to fully flesh out the sound and music.
+
+
+
 
 
 
