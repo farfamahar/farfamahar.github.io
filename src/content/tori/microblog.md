@@ -89,6 +89,17 @@ https://youtu.be/QFjHhKfDIvQ. I've talked about this project at gæmz Tokyo so m
 <br>
 - Went to a live show at Hako Gallery in Yoyogi-Uehara. It was mix or electric guitar, noise, sound art, and ethereal vocals. Felt really inspired by the noise and distorted, modulated strings. A few chapters already make use of noise and broken string samples. Can't wait to fully flesh out the sound and music.
 
+*March.29/2025*
+<br>
+- Worked on the Fire Dream. Surprised how good I got it to look without too much effort. Reused a lot of assets from Solastalgia. Still need to add a heat distortion effect and flickering point lights.
+
+*March.30/2025*
+<br>
+- Made some changes to the important objects highlight. Objects have a faint permanent outline and a bigger outline width when looking at it. I kinda dislike it because it feels a bit hand holdy and makes the world feel  less natural, but it might be necessary. Need to playtest with it off and on. Ideally good environment design, and lighting should replace this, but I'm probably overthinking it.
+- Starting to think about the main character design more. Their race, background, gender, hair, clothes, tattoos, etc. I'm not skilled enough to make an original 3D character so this is possibly an expensive commission/contract job. A bit early to think about this fully, but I've started a mood board for their design.
+
+
+
 
 
 
