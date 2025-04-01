@@ -98,6 +98,9 @@ https://youtu.be/QFjHhKfDIvQ. I've talked about this project at gæmz Tokyo so m
 - Made some changes to the important objects highlight. Objects have a faint permanent outline and a bigger outline width when looking at it. I kinda dislike it because it feels a bit hand holdy and makes the world feel  less natural, but it might be necessary. Need to playtest with it off and on. Ideally good environment design, and lighting should replace this, but I'm probably overthinking it.
 - Starting to think about the main character design more. Their race, background, gender, hair, clothes, tattoos, etc. I'm not skilled enough to make an original 3D character so this is possibly an expensive commission/contract job. A bit early to think about this fully, but I've started a mood board for their design.
 
+*March.31/2025*
+<br>
+- Organized the naming structure for objects in the scene hierarchy. It's tedious but makes things way more readable and easy to find. Example: PG_EFX_Butterflies which means a particle/vfx in the Pigeon chapter named Butterflies. I have prefixes for all chapters and object types. Before things had names like butterfly(1), scriptthatdoesthis, canvas1, canvas_2 etc.
 
 
 
