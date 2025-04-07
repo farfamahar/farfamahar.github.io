@@ -21,3 +21,10 @@ Updated daily
 - Added some walking animations to the third person view sections. Looks good enough for trailer making. Third person controller still needs a lot of work.
 - Added some more effects to the ending of the Drinking chapter. Birds fly out of your mouth now. It looks really good.
 - Weather has been bad this week. Missing the river walks and the birds, but things are looking better tomorrow and the weekend. WIll be spending a lot of time outdoors.
+
+*April.7/2025*
+<br>
+- THe weather has been so beautiful. Spending a lot of time outdoors and going on long aimless walks. One of these walks helped me solve some creative challenges and I found so much inspiration from a rooftop sunset and a woman with long white hair riding a bike - her hair flowing endlessly in the wind.
+- A bird landed on a pile of cherry blossom petals which caused them to burst up into the air. Added to the atmosphere notes.
+- Created a new gameplay trailer with some rigged animations. I'll be showing this at a private online event and talking about game dev. Weirdly not nervous at all.
+
