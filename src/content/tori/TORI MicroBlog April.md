@@ -28,3 +28,12 @@ Updated daily
 - A bird landed on a pile of cherry blossom petals which caused them to burst up into the air. Added to the atmosphere notes.
 - Created a new gameplay trailer with some rigged animations. I'll be showing this at a private online event and talking about game dev. Weirdly not nervous at all.
 
+*April.8/2025*
+<br>
+- Doing research into inverse kinematics. This is a new topic for me. Animations in Unity used to scare me, but I'm feeling more comfortable with it after making The Light Of Our Yearning.
+
+*April.9/2025*
+<br>
+- Preparing for a talk tomorrow morning for a Twitch Guild community event. I'll talk about TO:RI and just general game dev stuff. Events like this are great because it forces me to prepare updated videos and talking points. Also a good oppurtunity to connect with like-minded people.
+
+
