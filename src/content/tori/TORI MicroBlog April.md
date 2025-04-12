@@ -45,4 +45,9 @@ Updated daily
 <br>
 - Volumetric URP clouds have been added to the game. Shocked how easy it was to setup. It adds a ton of new creative variables to the game. There are a lot of ways I can use this to create dramatic or melancholic atmospheres. I have a feeling it runs badly on lower end hardware, but it's also so easy to toggle on and off without affecting anything else. I will probably make heavy use of it in the plant chapter when the storm is growing.
 
+*April.12/2025*
+<br>
+- Bought the Horse Animator Pro (HAP) asset. It's the first big asset purchased I made for this project. I spent most of the day trying to get it to work. Turns out that having domain reloading on stops all input from being recognized. Have to turn it back on. Goodbye instant play mode.
+- HAP functions great and has a lot of features, but I've learned that the animations aren't really that realistic and many horse gamers can recognize when the animations are poorly done. I'd rather not just accept what's out of the box. I'll attempt to give it some extra polish later into development. For now, this is a solid character controller. 
+
 
