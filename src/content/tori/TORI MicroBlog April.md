@@ -36,4 +36,13 @@ Updated daily
 <br>
 - Preparing for a talk tomorrow morning for a Twitch Guild community event. I'll talk about TO:RI and just general game dev stuff. Events like this are great because it forces me to prepare updated videos and talking points. Also a good oppurtunity to connect with like-minded people.
 
+*April.10/2025*
+<br>
+- Talk went really well. It was less about TO:RI and more about my experience making games. Talked about how we define success, why the game industry is not a healthy place, creavivity and passion, and I gave a lot of tips on how to get started making your own personal and unique game.
+- Added a washi paper overlay to the ending of the painting chapter. I think it looks great and makes it feel visually distinct.
+
+*April.11/2025*
+<br>
+- Volumetric URP clouds have been added to the game. Shocked how easy it was to setup. It adds a ton of new creative variables to the game. There are a lot of ways I can use this to create dramatic or melancholic atmospheres. I have a feeling it runs badly on lower end hardware, but it's also so easy to toggle on and off without affecting anything else. I will probably make heavy use of it in the plant chapter when the storm is growing.
+
 
