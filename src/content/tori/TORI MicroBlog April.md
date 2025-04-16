@@ -50,4 +50,21 @@ Updated daily
 - Bought the Horse Animator Pro (HAP) asset. It's the first big asset purchased I made for this project. I spent most of the day trying to get it to work. Turns out that having domain reloading on stops all input from being recognized. Have to turn it back on. Goodbye instant play mode.
 - HAP functions great and has a lot of features, but I've learned that the animations aren't really that realistic and many horse gamers can recognize when the animations are poorly done. I'd rather not just accept what's out of the box. I'll attempt to give it some extra polish later into development. For now, this is a solid character controller. 
 
+*April.13/2025*
+<br>
+- Worked on paint chapter ending. Added colors to the ink strokes.
+
+*April.14/2025*
+<br>
+- More work on the ink controller. It's a lot of fun. I have a lot of plans for this sequence. More birds. Ink dripping effect
+
+*April.16/2025*
+<br>
+- Went to Tokyo Indies. Didn't show TO:RI, but I did show an intentionally bad project I made in an hour, and it got a lot of laughs. Met someone there that regognized my game at a talk I gave, and he gave me some technical graphical tips for color. Something to do with global illumination? I was a bit confused, but worth asking about further.
+
+
+
+
+
+
 
