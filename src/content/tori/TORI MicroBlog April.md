@@ -62,6 +62,10 @@ Updated daily
 <br>
 - Went to Tokyo Indies. Didn't show TO:RI, but I did show an intentionally bad project I made in an hour, and it got a lot of laughs. Met someone there that regognized my game at a talk I gave, and he gave me some technical graphical tips for color. Something to do with global illumination? I was a bit confused, but worth asking about further.
 
+*April.17/2025*
+<br>
+- First time in a while that I've started to feel a hint of burnout. It's the constant chatter of multiple projects, events, and deadlines living in my head. I may have taken on too much this month. I need to slow down. It's good to recognize this early before it gets to an unhealthy state.
+
 
 
 
