@@ -66,6 +66,11 @@ Updated daily
 <br>
 - First time in a while that I've started to feel a hint of burnout. It's the constant chatter of multiple projects, events, and deadlines living in my head. I may have taken on too much this month. I need to slow down. It's good to recognize this early before it gets to an unhealthy state.
 
+*April.21/2025*
+<br>
+- Haven't opened TO:RI in about a week. I did open Unity3D briefly to make a shitpost idea my friend sent me. Small but much needed distraction. Last week I also took a painting class. Giving myself some outlets to be creativily messy while also finishing something. I find that taking some creative breaks with other low stakes creative stuff helps keep the feelings of burnout away.
+
+
 
 
 
