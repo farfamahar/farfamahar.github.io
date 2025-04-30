@@ -70,6 +70,11 @@ Updated daily
 <br>
 - Haven't opened TO:RI in about a week. I did open Unity3D briefly to make a shitpost idea my friend sent me. Small but much needed distraction. Last week I also took a painting class. Giving myself some outlets to be creativily messy while also finishing something. I find that taking some creative breaks with other low stakes creative stuff helps keep the feelings of burnout away.
 
+*April.30/2025*
+<br>
+- Another month gone by. Slowed down a bit, but good progress still. Volumetric clouds, horse controller, chapter ending gameplay and vfx updates. Also recently added some new workflow assets for the inspector and assets folder. Looks extremely organized and easy to navigate. I should start doing monthly longer form blog posts. I find that writing has been a good semi regular habit that helps a lot to track progress and just free my mind a bit after a hectic day.
+
+
 
 
 
