@@ -5,8 +5,6 @@ pubDate: 'Apr 1 2025'
 heroImage: ''
 ---
 
-Updated daily
-
 *April.1/2025*
 <br>
 - Renamed and organized objects for the Plant chapter. I think for the next week I'll be doing this for all chapters. I figure this is going to be extra valuable if I end up collaborating on the project with more people.
@@ -72,7 +70,7 @@ Updated daily
 
 *April.30/2025*
 <br>
-- Another month gone by. Slowed down a bit, but good progress still. Volumetric clouds, horse controller, chapter ending gameplay and vfx updates. Also recently added some new workflow assets for the inspector and assets folder. Looks extremely organized and easy to navigate. I should start doing monthly longer form blog posts. I find that writing has been a good semi regular habit that helps a lot to track progress and just free my mind a bit after a hectic day.
+- Another month gone by. Slowed down a bit, but good progress still. Volumetric clouds, horse controller, chapter ending gameplay and vfx updates. Also recently added some new workflow assets for the inspector and assets folder. Looks extremely organized and easy to navigate. I should start doing monthly longer form blog posts. I find that writing has been a good semi regular habit that helps a lot to track progress and just free my mind a little after a hectic day.
 
 
 
