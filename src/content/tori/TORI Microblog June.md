@@ -14,3 +14,8 @@ heroImage: ''
 *June.11/2025*
 <br>
 - Crest Ocean implemented into project. Adds significantly more visual juice. Also will be useful for the final crane boat section.
+
+*June.14/2025*
+<br>
+- In Kyoto to see Zack perform Butoh. Third time in the city, but first time doing tourist things. Found some unexpected inspiration at Fushimi Inari. I thought it was going to be a bad time with how crowded I hear it is, but it was actually very quiet (probably due to the heavy rain). It also becomes almost empty near the top of the mountain. 
+- The inspiration came from a statue of a horse adorned in clothes. I imagined the horse in TO:RI to not just simply be a "rideable meat vehicle" as Alice Ruppert from The Mane Quest puts it. This horse needs to be named by the player. It's growth and time in these dream sequences shown through the flowing cloth and bells of its outfit. As you enter each dream, not only do you show signs of a great passage of time, so does your horse. And this passage of time should signify a stronger connection to the horse. Both visually and mechanically.
