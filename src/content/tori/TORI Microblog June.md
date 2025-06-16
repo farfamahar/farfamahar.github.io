@@ -19,3 +19,8 @@ heroImage: ''
 <br>
 - In Kyoto to see Zack perform Butoh. Third time in the city, but first time doing tourist things. Found some unexpected inspiration at Fushimi Inari. I thought it was going to be a bad time with how crowded I hear it is, but it was actually very quiet (probably due to the heavy rain). It also becomes almost empty near the top of the mountain. 
 - The inspiration came from a statue of a horse adorned in clothes. I imagined the horse in TO:RI to not just simply be a "rideable meat vehicle" as Alice Ruppert from The Mane Quest puts it. This horse needs to be named by the player. It's growth and time in these dream sequences shown through the flowing cloth and bells of its outfit. As you enter each dream, not only do you show signs of a great passage of time, so does your horse. And this passage of time should signify a stronger connection to the horse. Both visually and mechanically.
+
+*June.17/2025*
+<br>
+- Managed to get the Horse Animation Pro asset working with a 3D character model. Played around with the camera and controls a lot. I was dreading this, but it wasn't too bad. Big thanks to this Youtube tutorial https://youtu.be/dl29aMmbbns from Infinity PBR Magic Pig Games. I would be nowhere if it wasn't for Youtube game dev tutorial videos.
+- A narrative idea I'm considering. The written narrative is told through letters (To:Ri) at the end of island sequences. What if the replies to these letters were shown at the end of the dream sequences (From:Ri)?
