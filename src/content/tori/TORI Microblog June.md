@@ -24,3 +24,11 @@ heroImage: ''
 <br>
 - Managed to get the Horse Animation Pro asset working with a 3D character model. Played around with the camera and controls a lot. I was dreading this, but it wasn't too bad. Big thanks to this Youtube tutorial https://youtu.be/dl29aMmbbns from Infinity PBR Magic Pig Games. I would be nowhere if it wasn't for Youtube game dev tutorial videos.
 - A narrative idea I'm considering. The written narrative is told through letters (To:Ri) at the end of island sequences. What if the replies to these letters were shown at the end of the dream sequences (From:Ri)?
+
+*June.18/2025*
+<br>
+- Started drawing some storyboards for all the scenes that live in my head and in the .md design doc. Visually laying it out with pen and paper is a nice artifact to have.
+- The horse scenes look great. Added a big tower in the background that gets closer every dream. Using a temp orc tower asset I found on sketchfab and a free island asset. Assets to replace later, but good enough to get a feel for the final art direction. Need to play some Shadow of the Colossus again for extra inspiration.
+
+
+
