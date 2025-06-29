@@ -18,7 +18,7 @@ I spent a lot of my time just admiring the beauty of the atmosphere. It's melanc
 
 ![Player Non Player Image](/player-non-player-screenshot-3.png)
 
-There's an achievement to cause harm to everyone but this is something I couldn't do. They bare the world to you, and you feel their discomfort and pain. I didn't come to this island to play with it like a toy, but the option is there. Just like there's an option to collect all the coins to be rewarded with an achievement to prove that this is "real video game". Player Non Player has many meta aspects that allude to the fact that this is a constructed experience. It adds a lot to the world building, giving this feeling of authored authenticity to everything. The artist is present. They followed the "rules" of a game and simultaneously broke them all. The result is a magical, personal, and touching experience unlike anything I've ever played.
+There's an achievement to cause harm to everyone but this is something I couldn't do. They bare the world to you, and you feel their discomfort and pain. I didn't come to this island to play with it like a toy, but the option is there. Just like there's an option to collect all the coins to be rewarded with an achievement to prove that this is a "real video game". Player Non Player has many meta aspects that allude to the fact that this is a constructed experience. It adds a lot to the world building, giving this feeling of authored authenticity to everything. The artist is present. They followed the "rules" of a game and simultaneously broke them all. The result is a magical, personal, and touching experience unlike anything I've ever played.
 
 ![Player Non Player Image](/player-non-player-screenshot.jpeg)
 
