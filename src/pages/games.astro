@@ -5,6 +5,13 @@ import Sidebar from '../components/Sidebar.astro';
 // Game data remains unchanged
 const games = [
 {
+    name: "The Light Of Our Yearning",
+    videoId: "WqO-qXTadPI",
+    images: ["/solastalgia-cover.webp"],
+    description: "A short interactive visual poem about loss, longing, and dislocation. Through the medium of games, SOLASTALGIA explores the erosion of the sense of belonging to a particular place and a feeling of distress about its transformation.",
+	link:"https://farfama.itch.io/solastalgia"
+  },
+  {
     name: "TO:RI",
     videoId: "qRs9hAGfc8c",
     images: ["/tori-image-0.webp"],
@@ -19,14 +26,6 @@ const games = [
 	link:"https://farfama.itch.io/solastalgia"
   },
   {
-    name: "city::ephemera",
-    videoId: "8OAnukQ1pC8",
-    images: ["/city-ephemera-screenshot.webp"],
-    description: "A short interactive audio-visual experience inspired by artists Yayoi Kusama and photographer Hiroshi Sugimoto. Explore the hazy::temporality of city::ephemera.",
-	link:"https://infinitetears.itch.io/cityephemera"
-
-  },
-  {
     name: "ocean::ephemera",
     videoId: "8OAnukQ1pC8",
     images: ["/ocean-ephemera-screenshot.webp"],
@@ -35,53 +34,17 @@ const games = [
 
   },
   {
-    name: "Movements and Modulations",
-    videoId: "",
-    images: ["/movements-modulations-image-1.webp"],
-    description: "Light, shadow, space, and dance interactive art exhibition made for The Zium Exposition.",
-	link:"https://theziumsociety.itch.io/the-zium-exposition"
-  },
-  {
-    name: "The Golden Tower",
-    videoId: "https://www.youtube.com/watch?v=r87hSJVPQQ4",
-    images: ["/the-golden-tower.webp"],
-    description: "Cosmic interactive audio-visual journey. Climb the sacred steps. Unlock the secrets of the monolithic tower.",
-	link:"https://farfama.itch.io/the-golden-tower"
-  },
-  {
     name: "i promise",
     videoId: "dQw4w9WgXcQ",
     images: ["/ipromise2.webp"],
     description: "The long road looms. Time based experimental liminal road that drastically alters visuals and sounds after 12am.",
 	link:"https://infinitetears.itch.io/i-promise"
-  },
-  {
-    name: "First Person Anomaly",
-    videoId: "dQw4w9WgXcQ",
-    images: ["/first-person-a.webp"],
-    description: "Interactive first person musical experience. Discovery a strange anomaly on a corrupted battlefield.",
-	link:"https://infinitetears.itch.io/wobniaryvarg"
-  },
-  {
-    name: "Celestial Ascension",
-    videoId: "dQw4w9WgXcQ",
-    images: ["/celestial.webp"],
-    description: "Generative musical game built using Unity3D. Performed at Space Orbit Gallery in Sangenjaya, Tokyo.",
-	link:"https://farfama.itch.io/celestial-ascension"
-  },
-  {
-    name: "Playtest Kyoto City",
-	videoId: "dQw4w9WgXcQ",
-    images: ["/Playtest-Kyoto.webp"],
-    description: "Virtual city built for experimental games festival Playtest Kyoto 2024. Explore a city filled with all the character photos taken by partipants of the three day festival. A virtual gallery of the 200+ contributions to my Urban Lens photo exhibition",
-	link:""
   }
 ];
 ---
 
 <html lang="en">
 	<head>
-		<BaseHead title="Farfama Games" description="Experimental games by Farfama" />
 		<style>
 
 			body {
@@ -170,15 +133,6 @@ const games = [
 					<h2 class="game-title">{game.name}</h2>
 					<div class="image-gallery">
 						<div class="gallery-item">
-							{/* {game.videoId ? (
-								<iframe
-									src={`https://www.youtube.com/embed/${game.videoId}`}
-									frameborder="0"
-									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-									allowfullscreen
-									class="gallery-video"
-								></iframe>
-							) : ( */}
 								<img src={game.images[0]} alt={`Screenshot from ${game.name}`} class="gallery-image" />
 							{/* )} */}
 						</div>
