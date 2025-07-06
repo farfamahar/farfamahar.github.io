@@ -16,3 +16,15 @@ heroImage: ''
 *July.5/2025*
 <br>
 - Save system. Boring stuff. It works using PlayerPrefs to track what chapter you're on so it knows what to load when transitioning from chapter to dream or what scene to load on start. I don't think there's going to be much things to save in the story so it probably won't be more complex than that.
+
+*July.6/2025*
+<br>
+- Went to a big forest park and fed some crows. Saw some ducks too. Weekends are for touching grass.
+
+*July.7/2025*
+<br>
+- The save system works well. I can play through every scene in its pre polish stage without having to exit into the editor to load the connected scene. Its all starting to resemble a playable game.
+- A bit stressed about the horse asset I'm using. Horse game fans can spot it easily and it has a bad reputation for not being accurate. Gives off asset flip vibes. Luckily there are better alternatives that have been recommended. The issue is that that they don't have a horse controller functionality and I'm a bit worried with how difficult it might be to remap the animations to a new mesh.
+- Thiking about sound design more. FMOD implementation is something I'm considering. Would be nice to pay a sound designer to help out with things in the future if the budget allows it. Otherwise its more hats to wear and this hat stack is getting too heavy.
+
+
