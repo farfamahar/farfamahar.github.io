@@ -27,4 +27,9 @@ heroImage: ''
 - A bit stressed about the horse asset I'm using. Horse game fans can spot it easily and it has a bad reputation for not being accurate. Gives off asset flip vibes. Luckily there are better alternatives that have been recommended. The issue is that that they don't have a horse controller functionality and I'm a bit worried with how difficult it might be to remap the animations to a new mesh.
 - Thiking about sound design more. FMOD implementation is something I'm considering. Would be nice to pay a sound designer to help out with things in the future if the budget allows it. Otherwise its more hats to wear and this hat stack is getting too heavy.
 
+*July.14/2025*
+<br>
+- Added a crossfade transition effect between cameras. I've always loved seeing this in films. It evokes a certain feeling. Like lingering in a momemt. Signalling that two events are happening at the same time. Constrasting visuals. Or complementary visuals. A slow movement between time and spaces. There's so much creative choices with this.
+- Broke the horse controller by doing this. Tried debugging for hours but gave up. I think its a reference error because I moved the objects into a different scene. This seems like some engine error that I'm not aware of.
+
 
