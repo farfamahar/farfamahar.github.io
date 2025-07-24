@@ -32,4 +32,15 @@ heroImage: ''
 - Added a crossfade transition effect between cameras. I've always loved seeing this in films. It evokes a certain feeling. Like lingering in a momemt. Signalling that two events are happening at the same time. Constrasting visuals. Or complementary visuals. A slow movement between time and spaces. There's so much creative choices with this.
 - Broke the horse controller by doing this. Tried debugging for hours but gave up. I think its a reference error because I moved the objects into a different scene. This seems like some engine error that I'm not aware of.
 
+*July.23/2025*
+<br>
+- Watched Winged Migration. Good film with lots of visual inspiration
+
+*July.24/2025*
+<br>
+- Morning walk to mountain park. Lots of nature inspiration.
+- Added some terrain making assets to the project. First big step in making the dream chapters. Already have a desert setup.
+- Made a lot of edits and additions to the design document. Tip to anyone considering making a game - your design document is not something you only make before you start developing. It's something that will always change as you develop. It's basically an updating wiki of the state and potential future state of the project.
+
+
 
