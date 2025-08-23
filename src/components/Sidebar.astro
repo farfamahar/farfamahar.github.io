@@ -17,6 +17,9 @@ const currentPage = Astro.url.pathname; // Get the current URL path
             <li>
                 <a href="/tori" class={currentPage.startsWith('/tori') ? 'active' : ''}>TO:RI</a>
             </li>
+            <li>
+                <a href="/digital-garden" class={currentPage.startsWith('/digital-garden') ? 'active' : ''}>Digital Garden</a>
+            </li>
         </ul>
     </nav>
 </aside>
