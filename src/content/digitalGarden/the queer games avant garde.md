@@ -48,11 +48,11 @@ book highlights from the queer games avant-garde by bo ruberg
 
 "I try to mime what literary depth looks like, where you can analyze a text from all these different angles"
 
-"Personally, I don't care much about my games being recognized as 'art'. I used to, but I've learned to survive without that. THat's not why I make games, anyways. I make game because some part of me still buys into the utopian premise of technology. I make games because that's my way of talking to a lot of people who I otherwise wouldn't talk to. Through my game I can have a conversation with them"
+"Personally, I don't care much about my games being recognized as 'art'. I used to, but I've learned to survive without that. That's not why I make games, anyways. I make game because some part of me still buys into the utopian premise of technology. I make games because that's my way of talking to a lot of people who I otherwise wouldn't talk to. Through my game I can have a conversation with them"
 
 "What I'm actually going for is more 'inside baseball: gay people laughing with themselves. So, I wouldn't call these games jokes because that opens them up to a dominant, hegemonic interpretation of all gay culture as a joke'"
 
-"these straight gamer dudes performing their gay panic really do annoy me. It's not that htey would spit on gay people, but they go on YouTube and demonstrate their disgust because it helps them asset their own heteronormativity."
+"these straight gamer dudes performing their gay panic really do annoy me. It's not that they would spit on gay people, but they go on YouTube and demonstrate their disgust because it helps them asset their own heteronormativity."
 
 ##### Aevee Bee
 "Queer characters must remain complex, says Bee, and they cannot be stripped of their sexual desire in order to make them acceptable to an implicitly homophobic audience"
@@ -123,7 +123,7 @@ book highlights from the queer games avant-garde by bo ruberg
 
 "Mostly what inspires my games is not other games. I really believe  that it's important to get inspired by things outside your field. Go see art. Go to an aquarium and look at an octopus and then turn that into a game mechanic. Go outside and live life and get that into your games"
 
-"Putting a smile on someone's ace is one of the most noble things I can do for another human being. That's what gives us the energy to fight back in the face of political oppression"
+"Putting a smile on someone's face is one of the most noble things I can do for another human being. That's what gives us the energy to fight back in the face of political oppression"
 
 ##### Nina Freeman
 "I want to tell human stories, and sexuality is an important part of the human experience"

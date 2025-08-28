@@ -1,5 +1,5 @@
 ---
-title: 'how to do nothing'
+title: 'how to do nothing book notes'
 description: ''
 pubDate: 'Aug 28 2025'
 heroImage: ''
