@@ -5,6 +5,8 @@ pubDate: 'Aug 24 2025'
 heroImage: ''
 ---
 
+book highlights from the queer games avant-garde by bo ruberg
+
 ##### Introduction
 "While many LGBTQ players have celebrated these gestures (increased LGBT representation in mainstream games) toward inclusivity, others remain rightly wary of corporate attempts to cater to non-straight, non-cisgender players: such attempts typically operate under the neoliberal logic that "diverse" players constiture an untapped consumer market and that increasing diverse representation will also increase profits"
 
