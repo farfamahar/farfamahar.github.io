@@ -135,6 +135,18 @@ If connectivity dominates over sensitivity, our collective mind becomes shaped l
 
 "We had yerba buena tea and chanterelle mushrooms on acorn flatbread"
 
+#### Vocav
+- conviviality
+- myopia
+- parsimonious
+- luddite
+- epitaph
+- bucolic
+- clairvoyance
+- megalomania
+- assiduously
+- simulacrum
+
 
 
 
