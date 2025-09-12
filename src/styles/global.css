@@ -79,10 +79,10 @@ b {
 	font-weight: 700;
 }
 a {
-	color: var(--accent);
+	color: black;
 }
 a:hover {
-	color: var(--accent);
+	color: black;
 }
 p {
 	/* margin-bottom: 1em; */

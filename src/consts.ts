@@ -2,4 +2,4 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Farfama';
-export const SITE_DESCRIPTION = 'Artist, Developer, Designer';
+export const SITE_DESCRIPTION = 'Artist, Developer, Curator, Designer';
