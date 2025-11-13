@@ -4,6 +4,9 @@ import Sidebar from '../components/Sidebar.astro';
 const nowItems = [
     { text: "Co-organizing GÆMZ Meetup Toyko", link: "https://gaemz.carrd.co/"},
     { text: "Working on TO:RI", link: "https://store.steampowered.com/app/3215280/TORI/"},
+    { text: "Reading The Infinite Playground", link: "https://direct.mit.edu/books/book/4846/The-Infinite-PlaygroundA-Player-s-Guide-to"},
+    { text: "Learning Blender", link: ""},
+    { text: "Working on highway::ephemera", link: ""}
 ];
 ---
 
@@ -23,7 +26,7 @@ const nowItems = [
             }
 
             .now-section {
-                margin-top: 50px;
+                margin-top: 25px;
             }
 
             .content {
@@ -80,8 +83,39 @@ const nowItems = [
                 <br>
                 <p>Farfamaは日本を拠点に活動するメディアアーティストで、実験的なデジタルゲームやウェブアプリを専門としている。彼らの作品は、自然、儀式、日常的な観察からインスピレーションを得て、畏怖、驚き、遊び心のある喜びというテーマを探求している。</p>
 
+                <br>
+
+                <p> <strong>Exhibitions</strong> </p>
+                <ul>
+                    <li>A MAZE. Berlin Open Screens - 2025</li>
+                    <li>Avant Beetle CRTL-ALT-RESIST - 2025</li>
+                    <li>The Zium Exposition - 2025</li>
+                    <li>Super FESTival - 2024</li>
+                    <li>030 Tokyo Microflora Exhibition - 2024</li>
+                    <li>BLON Animation and Games Festival - 2024</li>
+                    <li>Playtest Kyoto - 2024</li>
+                    <li>Games Y'all Austin Texas - 2024</li>
+                    <li>Space Orbit Art Gallery Live Performance - 2024</li>
+                    <li>Dizzy Spell “Short and Sweet” Game Exhibition - 2023</li>
+                </ul>
+                <strong>Talks</strong>
+                <ul>
+                    <li>Games Art International Assembly - 2025</li>
+                    <li>Game Devs of Color Expo - 2025</li>
+                    <li>Spectrum Tokyo - 2025</li>
+                    <li>Tokyo GÆMZ Show - 2025</li>
+                    <li>A MAZE Berlin. - 2025</li>
+                    <li>GÆMZ Tokyo - 2024</li>
+                    <li>Super FESTival - 2024</li>
+                </ul>
+                <p> <strong>Workshops & Events</strong> </p>
+                <ul>
+                    <li>Tokyo GÆMZ Show - 2025</li>
+                    <li>GÆMZ Tokyo Game Boy Camera Photowalk - 2025</li>
+                    <li>Kizuna Collective Mindful Walking Circle - 2025</li>  
+                </ul>                  
                 <div class="now-section">
-                    <p> What I'm up to now</p>
+                    <strong><p> What I'm up to now</p> </strong>
                     <ul>
                         {nowItems.map((item) => (
                             <li>

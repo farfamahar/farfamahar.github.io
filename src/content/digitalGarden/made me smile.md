@@ -13,4 +13,4 @@ A list of things in everyday life that made me pause and smile
 - A man whistling a song loudly while riding his bike
 - Moroccan restaurant owner remembering me and my partner 3 years after our first visit. He even remembered a bunch of small details we shared together
 - Hearing a crazy frog ringtone while walking around the city
-- The volume during a work meeting being at 5000% on huge speakers and everyone in panic as they tried to fix it while the remote speaker was completely unaware that they were being heard by the whole floor
+- Kids cawing at a crow
