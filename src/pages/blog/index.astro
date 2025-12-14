@@ -83,6 +83,11 @@ const posts = (await getCollection('blog')).sort(
 	<body>
 		<Sidebar />
 		<div class="content">
+			<div style="width: 15%;">
+				<img src="/Written-By-a-Human-Not-By-AI-Badge-white@2x.png" alt="Your Image">
+			  </div>
+			  <br>
+			  <br>
 			<div class="text-content">
 				{
 					posts.map((post) => (
@@ -94,7 +99,9 @@ const posts = (await getCollection('blog')).sort(
 									<FormattedDate date={post.data.pubDate} />
 								</p>
 						</div>
+						
 					))
+					
 				}
 			</div>
 		</div>
