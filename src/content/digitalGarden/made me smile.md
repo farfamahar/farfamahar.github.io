@@ -14,3 +14,4 @@ A list of things in everyday life that made me pause and smile
 - Moroccan restaurant owner remembering me and my partner 3 years after our first visit. He even remembered a bunch of small details we shared together
 - Hearing a crazy frog ringtone while walking around the city
 - Kids cawing at a crow
+- Fiddle playing busker
