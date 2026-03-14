@@ -15,3 +15,4 @@ A list of things in everyday life that made me pause and smile
 - Hearing a crazy frog ringtone while walking around the city
 - Kids cawing at a crow
 - Fiddle playing busker
+- My phones weird screen pet that came built into the phone. Sometimes it falls over and gets dizzy. Sometimes it's wearing a seasonal outfit.
