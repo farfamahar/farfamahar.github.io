@@ -5,12 +5,16 @@ pubDate: 'May 13 2026'
 heroImage: ''
 ---
 
-Thanks for coming to my talk! Feel free to email me if you want to talk more
+Thanks for coming to my talk!\
+Feel free to email me if you want to talk more\
+I would love to hear your thoughts\
 farfama.dev@gmail.com
 
-Follow me on bluesky
-Follow me on Instagram
-Follow me on itch.io
+
+Socials
+- [Follow me on bluesky](https://farfama.itch.io/)
+- [Follow me on Instagram](https://www.instagram.com/farfama.har/)
+- [Follow me on itch.io](https://farfama.itch.io/)
 
 Slides
 - Soon
@@ -57,3 +61,12 @@ Videos
 - [Ocean Vuong Teaches the Art of Writing](https://youtu.be/kn4r4CmWmUw)
 - [Apichatpong Weerasethakul – 'I Escape Into the Movies' | TateShots](https://youtu.be/EdAigXMS7kI)
 - [The Philosophy of Terrence Malick | Full Documentary](https://youtu.be/Oohg3LZd898)
+
+Books
+- Game Poems by Jordan Magnuson
+- The Queer Games Avant-Garde by Bo Ruberg
+- Video Games Have Always Been Queer by Bo Ruberg
+- Rise of the Video Game Zinesters by Anna Anthropy
+- Avant-garde Videogames: Playing with Technoculture by Brian Schrank
+- The Videogame Industry Does Not Exist: Why We Should Think Beyond Commercial Game Production by Brendan Keogh
+- Everything to Play For: How Videogames Are Changing the World Marijam Did
