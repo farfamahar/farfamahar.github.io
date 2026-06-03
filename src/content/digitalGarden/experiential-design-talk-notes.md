@@ -16,7 +16,7 @@ Socials
 - [Follow me on Instagram](https://www.instagram.com/farfama.har/)
 - [Follow me on itch.io](https://farfama.itch.io/)
 
-Slides
+Video of talk
 - Soon
 
 
@@ -70,3 +70,4 @@ Books
 - Avant-garde Videogames: Playing with Technoculture by Brian Schrank
 - The Videogame Industry Does Not Exist: Why We Should Think Beyond Commercial Game Production by Brendan Keogh
 - Everything to Play For: How Videogames Are Changing the World Marijam Did
+- [Against Interpretation](https://en.wikipedia.org/wiki/Against_Interpretation)
