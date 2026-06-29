@@ -17,7 +17,7 @@ Socials
 - [Follow me on itch.io](https://farfama.itch.io/)
 
 Video of talk
-- Soon
+- https://www.youtube.com/watch?v=fGbs9IcCyjY
 
 
 Games
