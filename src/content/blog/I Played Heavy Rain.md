@@ -41,5 +41,6 @@ In the end, it's the perplexing unintentional effects of what it strived to do t
 ---
 More Links
 - https://www.youtube.com/watch?v=I83ahTS8Npk (15 Years of Heavy Rain Documentary Series)
+- http://citystate.co.uk/archives/the-bafta-games-awards/ (BAFTA Games Awards Critique)
 
 
