@@ -75,6 +75,21 @@ import Sidebar from '../components/Sidebar.astro';
 				margin: 4px 0 0 0;
 				padding-left: 20px;
 			}
+			.video-embed {
+				position: relative;
+				width: 100%;
+				max-width: 600px;
+				padding-top: 56.25%; /* 16:9 aspect ratio */
+				margin: 20px 0;
+			}
+			.video-embed iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				border: 0;
+			}
 			@media (max-width: 768px) {
 				body {
 					flex-direction: column;
@@ -98,17 +113,69 @@ import Sidebar from '../components/Sidebar.astro';
 	<body>
 		<Sidebar />
 		<div class="content">
-            <p>
-            Spacetime Continuum of Sound is an interactive audio-visual experience that explores the relationship between sound and space. Created by Farfama, this project invites users to immerse themselves in a dynamic environment where soundscapes evolve based on user interactions. 
-            The experience is designed to challenge perceptions of time and space, offering a unique journey through auditory landscapes.
-</p>
-            <p>
-            The project utilizes advanced audio processing techniques to create a responsive sound environment. As users navigate through the space, they encounter various sound elements that react to their movements and actions, creating a personalized auditory experience. 
-            The visual component complements the soundscapes, providing a cohesive and engaging experience that stimulates both the senses of hearing and sight.
-</p>
-            <p>
-            Spacetime Continuum of Sound is a testament to Farfama's commitment to pushing the boundaries of interactive media. By blending technology, art, and sound design, this project offers a compelling exploration of how sound can shape our perception of space and time. It is an invitation to explore the unknown and to experience the transformative power of sound in a new and innovative way.
-</p>    
+            <!-- <p>
+            A dynamic, ever-changing soundscape washes through the underground cistern. Instruments, familiar and strange. Become the curious composer of an ephemeral soundtrack, unique to you. Emerge a graceful witness to the particle magic we call sound. 
+			<br>
+			<br>
+			Slow your pace. In stillness and in sound, stoke the flames of a humble inner revolution: an unburdening of the human been and the human to be, in favor of the human, being.
+			<br>
+			<br>
+			Let your ears blossom like springtime bloom expectant of rain. Stretch your hearing to its limits. It is in this reaching that hearing grows deep, transforming into active listening. In this budding state of awareness, music can be unearthed anywhere—in the new and thrilling and genre-twisting, and in common background racket habitually tuned out.
+			<br>
+			<br> 
+			For those willing to tune in, grant sound the foreground of your attention. Its repertoire is vast, riveting, infinite: a spacetime continuum of sound.
+			<br>
+			<br>
+			*This work is deeply inspired by the life and legacy of composer Pauline Oliveros, and in particular, her record “Deep Listening” co-created with musicians Stuart Dempster and Panaiotis.*
+			Description written by Sivani
+			</p>
+			<br>
+            <p> -->
+			<strong>Project Details</strong>
+			<br>
+			<br>
+			Playtime: 10-30 minutes
+			<br>
+			Platform: Windows
+
+			<p>
+			Spacetime Continuum of Sound is an interactive sound art piece based off the decommissioned underground cistern where Pauline Oliveros and her Deep Listening Band recorded and performed experimental musical pieces.
+			<br>
+			<br>
+			The digital space uses extreme reverberation to simulate a soundscape that is both mediative and otherworldly. The experience is made up of a curated collection of countless samples and field recordings. All sounds are randomly and dynamically layered to create a unique sound experience for each player.
+			<br>
+			<br>
+			An optional microphone allows the player to augment the soundscape with their own voice or sound making tools. The physical environment the player is in also contributes to the soundscape. 
+			This provides the opportunity of an exhibition that changes depending on the ambience of the space it resides in, making locality a material property of the project</p>
+
+			<div class="video-embed">
+				<iframe
+					src="https://www.youtube.com/embed/ZQmihjQOO2s"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+					allowfullscreen
+				></iframe>
+			</div>
+			<p>Full playthrough without the microphone</p>
+
+			<br>
+			<br>
+
+			<div class="video-embed">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/HUavIuzxDn8?si=21Ux4HRSK2rC5q0G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			</div>
+			<p>Player using musical shells attached to a wristband to augment the soundscape they are exploring</p>
+
+			<br>
+			<br>
+			<div class="video-embed">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/hMIPEhaao5A?si=PdSOK5QUNwx4f7Kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			</div>
+			<p>Me using a bird whistle to augment the soundscape while a player explores</p>
+			<br>
+			<br>
+			<img width="50%" src="/spacetime-audio-splitter.JPG"/>
+			<p>Audio splitter used to route sounds for up to 5 people</p>
+
 		</div>
 	</body>
 </html>
