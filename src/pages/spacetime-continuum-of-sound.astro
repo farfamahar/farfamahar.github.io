@@ -1,0 +1,114 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Sidebar from '../components/Sidebar.astro';
+
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title="Spacetime Continuum of Sound" description="Spacetime Continuum of Sound by Farfama" />
+		<style>
+
+			body {
+				font-family: Arial, sans-serif;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				font-size: 14px;
+				line-height: 1.6;
+				color: #333;
+				min-height: 100vh;
+
+			}
+			.content {
+				flex-grow: 1;
+				padding: 60px;
+				max-width: 800px;
+				width: 100%;
+				box-sizing: border-box;
+			}
+			.game-section {
+				margin-bottom: 60px;
+			}
+			.game-title {
+				font-size: 24px;
+				margin-bottom: 20px;
+				font-family: 'Geist-Regular', sans-serif;
+
+
+			}
+			
+			.image-gallery {
+				display: flex;
+				overflow-x: auto;
+				gap: 20px;
+				margin-bottom: 20px;
+				padding-bottom: 10px;
+				-webkit-overflow-scrolling: touch;
+			}
+			.gallery-item {
+				flex: 0 0 auto;
+				width: 100%;
+				max-width: 533px;
+				height: 300px;
+			}
+			.gallery-video {
+				width: 100%;
+				height: 100%;
+			}
+			.gallery-image {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+			.game-description {
+				max-width: 600px;
+				font-family: 'Geist-Regular', sans-serif;
+				white-space: pre-wrap;
+
+			}
+			.game-credits {
+				margin-top: 12px;
+				max-width: 600px;
+			}
+			.game-credits ul {
+				margin: 4px 0 0 0;
+				padding-left: 20px;
+			}
+			@media (max-width: 768px) {
+				body {
+					flex-direction: column;
+				}
+				.content {
+					padding: 20px;
+				}
+				.game-title {
+					font-size: 20px;
+				}
+				.gallery-item {
+					height: 56.25vw; /* 16:9 aspect ratio */
+					max-height: 300px;
+				}
+				.game-description {
+					font-size: 14px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Sidebar />
+		<div class="content">
+            <p>
+            Spacetime Continuum of Sound is an interactive audio-visual experience that explores the relationship between sound and space. Created by Farfama, this project invites users to immerse themselves in a dynamic environment where soundscapes evolve based on user interactions. 
+            The experience is designed to challenge perceptions of time and space, offering a unique journey through auditory landscapes.
+</p>
+            <p>
+            The project utilizes advanced audio processing techniques to create a responsive sound environment. As users navigate through the space, they encounter various sound elements that react to their movements and actions, creating a personalized auditory experience. 
+            The visual component complements the soundscapes, providing a cohesive and engaging experience that stimulates both the senses of hearing and sight.
+</p>
+            <p>
+            Spacetime Continuum of Sound is a testament to Farfama's commitment to pushing the boundaries of interactive media. By blending technology, art, and sound design, this project offers a compelling exploration of how sound can shape our perception of space and time. It is an invitation to explore the unknown and to experience the transformative power of sound in a new and innovative way.
+</p>    
+		</div>
+	</body>
+</html>
