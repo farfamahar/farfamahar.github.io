@@ -1,7 +1,7 @@
 ---
 title: 'TO:RI Microblog - July 2026'
 description: ''
-pubDate: 'June 10 2025'
+pubDate: 'June 10 2026'
 heroImage: ''
 ---
 
