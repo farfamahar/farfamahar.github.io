@@ -1,0 +1,199 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Sidebar from '../components/Sidebar.astro';
+
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title="A MAZE Berlin 2026 Open Screens" description="A MAZE Berlin 2026 Open Screens" />
+		<style>
+
+			body {
+				font-family: Arial, sans-serif;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				font-size: 14px;
+				line-height: 1.6;
+				color: #333;
+				min-height: 100vh;
+
+			}
+			.content {
+				flex-grow: 1;
+				padding: 60px;
+				max-width: 800px;
+				width: 100%;
+				box-sizing: border-box;
+			}
+			.game-section {
+				margin-bottom: 60px;
+			}
+			.game-title {
+				font-size: 24px;
+				margin-bottom: 20px;
+				font-family: 'Geist-Regular', sans-serif;
+
+
+			}
+			
+			.image-gallery {
+				display: flex;
+				overflow-x: auto;
+				gap: 20px;
+				margin-bottom: 20px;
+				padding-bottom: 10px;
+				-webkit-overflow-scrolling: touch;
+			}
+			.gallery-item {
+				flex: 0 0 auto;
+				width: 100%;
+				max-width: 533px;
+				height: 300px;
+			}
+			.gallery-video {
+				width: 100%;
+				height: 100%;
+			}
+			.gallery-image {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+			.game-description {
+				max-width: 600px;
+				font-family: 'Geist-Regular', sans-serif;
+				white-space: pre-wrap;
+
+			}
+			.game-credits {
+				margin-top: 12px;
+				max-width: 600px;
+			}
+			.game-credits ul {
+				margin: 4px 0 0 0;
+				padding-left: 20px;
+			}
+			.video-embed {
+				position: relative;
+				width: 100%;
+				max-width: 600px;
+				padding-top: 56.25%; /* 16:9 aspect ratio */
+				margin: 20px 0;
+			}
+			.video-embed iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				border: 0;
+			}
+			@media (max-width: 768px) {
+				body {
+					flex-direction: column;
+				}
+				.content {
+					padding: 20px;
+				}
+				.game-title {
+					font-size: 20px;
+				}
+				.gallery-item {
+					height: 56.25vw; /* 16:9 aspect ratio */
+					max-height: 300px;
+				}
+				.game-description {
+					font-size: 14px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Sidebar />
+		<div class="content">
+            <!-- <p>
+            A dynamic, ever-changing soundscape washes through the underground cistern. Instruments, familiar and strange. Become the curious composer of an ephemeral soundtrack, unique to you. Emerge a graceful witness to the particle magic we call sound. 
+			<br>
+			<br>
+			Slow your pace. In stillness and in sound, stoke the flames of a humble inner revolution: an unburdening of the human been and the human to be, in favor of the human, being.
+			<br>
+			<br>
+			Let your ears blossom like springtime bloom expectant of rain. Stretch your hearing to its limits. It is in this reaching that hearing grows deep, transforming into active listening. In this budding state of awareness, music can be unearthed anywhere—in the new and thrilling and genre-twisting, and in common background racket habitually tuned out.
+			<br>
+			<br> 
+			For those willing to tune in, grant sound the foreground of your attention. Its repertoire is vast, riveting, infinite: a spacetime continuum of sound.
+			<br>
+			<br>
+			*This work is deeply inspired by the life and legacy of composer Pauline Oliveros, and in particular, her record “Deep Listening” co-created with musicians Stuart Dempster and Panaiotis.*
+			Description written by Sivani
+			</p>
+			<br>
+            <p> -->
+			<strong>Spacetime Continuum of Sound at Amaze Berlin Open Screens 2026</strong>
+			<br>
+			<br>
+			Playtime: 10-30 minutes
+			<br>
+			Platform: Windows
+
+			<p>
+			Spacetime Continuum of Sound is an interactive sound art piece based off the decommissioned underground cistern where Pauline Oliveros and her Deep Listening Band recorded and performed experimental musical pieces.
+			<br>
+			<br>
+			The digital space uses extreme reverberation to simulate a soundscape that is both mediative and otherworldly. The experience is made up of a curated collection of countless samples and field recordings. All sounds are randomly and dynamically layered to create a unique sound experience for each player.
+			<br>
+			<br>
+			An optional microphone allows the player to augment the soundscape with their own voice or sound making tools. The physical environment the player is in also contributes to the soundscape. 
+			This provides the opportunity of an exhibition that changes depending on the ambience of the space it resides in, making locality a material property of the project</p>
+
+            <div class="video-embed">
+				<iframe
+					src="https://www.youtube.com/embed/dSEaySj3RpQ"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+					allowfullscreen
+				></iframe>
+			</div>
+
+			<div class="video-embed">
+				<iframe
+					src="https://www.youtube.com/embed/ZQmihjQOO2s"
+					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+					allowfullscreen
+				></iframe>
+			</div>
+			<p style="margin-top: -10px;">Full playthrough without the microphone</p>
+
+			<br>
+
+			<div class="video-embed">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/V78y2k3gVv4?si=wVP-S4k748O5HDTv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>			</div>
+			<p style="margin-top: -10px;">Example of microphone gameplay using a budget condenser mic. <br>Testing with different microphone types would yield vastly different results</p>
+
+			<br>
+
+
+			<div class="video-embed">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/HUavIuzxDn8?si=21Ux4HRSK2rC5q0G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			</div>
+			<p style="margin-top: -10px;">Player using musical shells attached to a wristband to augment the soundscape they are exploring</p>
+
+			<br>
+			<div class="video-embed">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/hMIPEhaao5A?si=PdSOK5QUNwx4f7Kp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			</div>
+			<p style="margin-top: -10px;">Me using a bird whistle to augment the soundscape while a player explores</p>
+			<br>
+			<br>
+			<img width="50%" src="/spacetime-audio-splitter.JPG"/>
+			<p>Audio splitter used to route sounds for up to 5 people</p>
+			<br>
+
+			<div style="width: 25%;">
+			<img src="/Written-By-a-Human-Not-By-AI-Badge-white@2x.png" alt="Your Image">
+			</div>
+
+		</div>
+	</body>
+</html>
