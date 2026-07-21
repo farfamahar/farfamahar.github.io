@@ -1,0 +1,137 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Sidebar from '../components/Sidebar.astro';
+
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title="Game Devs of Color Expo 2025" description="Game Devs of Color Expo 2025" />
+		<style>
+
+			body {
+				font-family: Arial, sans-serif;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				font-size: 14px;
+				line-height: 1.6;
+				color: #333;
+				min-height: 100vh;
+
+			}
+			.content {
+				flex-grow: 1;
+				padding: 60px;
+				max-width: 800px;
+				width: 100%;
+				box-sizing: border-box;
+			}
+			.game-section {
+				margin-bottom: 60px;
+			}
+			.game-title {
+				font-size: 24px;
+				margin-bottom: 20px;
+				font-family: 'Geist-Regular', sans-serif;
+
+
+			}
+			
+			.image-gallery {
+				display: flex;
+				overflow-x: auto;
+				gap: 20px;
+				margin-bottom: 20px;
+				padding-bottom: 10px;
+				-webkit-overflow-scrolling: touch;
+			}
+			.gallery-item {
+				flex: 0 0 auto;
+				width: 100%;
+				max-width: 533px;
+				height: 300px;
+			}
+			.gallery-video {
+				width: 100%;
+				height: 100%;
+			}
+			.gallery-image {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+			.game-description {
+				max-width: 600px;
+				font-family: 'Geist-Regular', sans-serif;
+				white-space: pre-wrap;
+
+			}
+			.game-credits {
+				margin-top: 12px;
+				max-width: 600px;
+			}
+			.game-credits ul {
+				margin: 4px 0 0 0;
+				padding-left: 20px;
+			}
+			.video-embed {
+				position: relative;
+				width: 100%;
+				max-width: 600px;
+				padding-top: 56.25%; /* 16:9 aspect ratio */
+				margin: 20px 0;
+			}
+			.video-embed iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				border: 0;
+			}
+			@media (max-width: 768px) {
+				body {
+					flex-direction: column;
+				}
+				.content {
+					padding: 20px;
+				}
+				.game-title {
+					font-size: 20px;
+				}
+				.gallery-item {
+					height: 56.25vw; /* 16:9 aspect ratio */
+					max-height: 300px;
+				}
+				.game-description {
+					font-size: 14px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Sidebar />
+		<div class="content">
+			<strong>Game Devs of Color Expo 2025</strong>
+			<br>
+			Location: Online
+			<br>
+            <br>
+            Talk: Atmosphere in Games: Crafting Experiences That Feel Alive
+			<br>
+			<br>
+
+            <p>A strong atmosphere is a key component in making a game memorable. Feelings of awe, beauty, and mystery can be evoked through atmosphere alone, leaving a lasting impression on players. I explored atmosphere in the context of games through a theoretical and practical lens.
+            <br><br> 
+            The talk outlined atmosphere through the topics of player-human embodiment, user interface, sound, game state, environmental design, narrative, VFX, and emergent atmosphere. Technical, and non-technical examples from various games are examined to provide inspiration for enhancing the atmosphere in your projects.</p>
+            <br>
+            <iframe width="100%" height="415" src="https://www.youtube.com/embed/YoEaNkY8yJ8" title="Atmosphere in Games: Crafting Experiences That Feel Alive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+			<!-- <div style="width: 25%;">
+			<img src="/Written-By-a-Human-Not-By-AI-Badge-white@2x.png" alt="Your Image">
+			</div> -->
+
+		</div>
+	</body>
+</html>
