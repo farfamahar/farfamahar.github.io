@@ -5,6 +5,7 @@ pubDate: 'Jul 22 2026'
 heroImage: ''
 ---
 
+[Info and photos from this workshop](/mindful-walking)
 
 ### Week 1
 
