@@ -200,7 +200,7 @@ hands. This action helps them to calibrate and focus on their sense of hearing
 - **Prompt. After the quiet walk. Share**  
 - **Observe something that makes you curious or sparks a question**  
 - **Who made this?**  
-- **— What did he/she want to communicate to us?**  
+- **— What did they want to communicate to us?**  
 - **— Why is this object (or mark, or thing) here exactly?**  
 - **— What is (or was, or could be) its alternative function?**  
 - **— Does this thing remind you of some known artwork?**
