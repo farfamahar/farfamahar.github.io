@@ -75,3 +75,38 @@ heroImage: ''
 	- YES YES YES
 
 # On Camp
+
+"In naive, or pure, Camp, the essential element is seriousness, a seriousness that fails. Of course, not all seriousness that fails can be redeemed as Camp. Only that which has the proper mixture of the exaggerated, the fantastic, the passionate, and the naive."
+
+"When something is just bad (rather than Camp), it's often because it is too mediocre in its ambition. The artist hasn't attempted to do anything really outlandish. ("it's too much", "it's too fantastic", "it's not to be believed", are standard phrases of Camp enthusiasm)"
+
+"A work can come closet to camp, but not make it, because it succeeds. Eisensteign's films are seldom camp because, despite all exaggeration, they do succeed (dramatically) without surplus. If they were a little more "off", they could be great camp - particularly Ivan the Terrible I and II"
+
+"What is extravagant in an inconsistent or an unpassionate way is not Camp. Neither can anything be camp that does not seem to spring from the irrepressible, a virtually uncontrolled sensibility. Without passion, one gets psuedo-Camp - what is merely decorative, safe, in a word, chic."
+
+"There is Camp in such bad movies as The Prodigal and Samson and Delilah, the series of Italian color spectacles featuring the super-hero Maciste, numerous Japanese science-fiction films (Rodan, The Mysterians, The H-Man) because, in their relative unpretentiousness and vulgarity, they are more extreme and irresponsible in their fantasy - and therefore touching and quite enjoyable"
+
+"Camp taste turns its back on the good-bad axis of ordinary aesthetic judgement. Camp doesn't reverse things. It doesn't argue that the good is bad, or the bad is good. What it does is to offer for art (and life) a different - a supplementary - set of standards"
+
+"there are other creative sensibilities besides the seriousness (both tragic and comic) of high culture and of the high style of evaluating people. And one cheats oneself, as a human being, if one has respect only for the style of high culture, whatever else one may do or feel on the sly"
+
+"Something is good not because it is achieved, but because another kind of truth about the human situation, another experience of what it is to be human - in short, another valid sensibility - is being revealed. And third among the great creative sensibilities is Camp: the sensibility of failed seriousness, of the theatricalization of experience. Camp refuses both the harmonies of traditional seriousness, and the risks of fully identifying with extreme states of feeling"
+
+"Camp is the consistently aesthetic experience of the world. It incarnates a victory of "style" over "content",  "aesthetics" over "morality", of irony over tragedy"
+
+"The whole point of Camp is to dethrone the serious. Camp is playful, anti-serious. More precisely, Camp involves a new, more complex relation to "the serious". One can be serious about the frivolous, frivolous about the serious"
+
+"One is drawn to Camp when one realizes that "sincerity" is not enough. Sincerity can be simple philistinism, intellectual narrowness"
+
+"Camp is the answer to problem: how to be dandy in the age of mass culture"
+
+"Camp is a solvent of morality. It neutralizes moral indignation, sponsors playfulness"
+
+"Camp asserts that good taste is not simply good taste; that there exists, indeed, a good taste of bad taste"
+
+"The man who insists on high and serious pleasures is depriving himself of pleasure; he continually restricts what he can enjoy; in the constant exercise of his good taste he will eventually price himself out of the market, so to speak. Here Camp taste supervenes upon good taste as a daring and witty hedonism
+
+"Camp taste is, above all, a mode of enjoyment, of appreciation - not judgement. Camp is generous. It wants to enjoy. It only seems like malice, cynicism. (Or, if it is cynicism, it's not a ruthless but a sweet cynicism). Camp taste doesn't propose that it is in bad taste to be serious; it doesn't sneer at someone who succeeds in being seriously dramatic. What it does is to find the success in certain passionate failures"
+
+"Camp taste is a kind of love, love for human nature. It relishes, rather than judges, the little triumphs and awkward intensities of "character" ... Camp taste identifies with what it is enjoying. People who share this sensibility are not laughing at the thing they label as "a camp", they're enjoying it. Camp is a tender feeling"
+- pop art is compared as something that embodies a similar attitude but is seen by Sontag as more flat, dry, serious, detached, and nihilistic
