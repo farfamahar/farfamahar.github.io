@@ -1,5 +1,5 @@
 ---
-title: 'Movements and Modulations in The Zium Exposition'
+title: 'Movements & Modulations In The Zium Exposition'
 description: ''
 pubDate: 'Nov 14 2024'
 heroImage: ''

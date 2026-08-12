@@ -1,5 +1,5 @@
 ---
-title: 'I Stared at a Rock for 30 Minutes '
+title: 'I Stared At A Rock For 30 Minutes'
 description: ''
 pubDate: 'June 21 2025'
 heroImage: ''

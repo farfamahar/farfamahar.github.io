@@ -1,5 +1,5 @@
 ---
-title: 'Focusing on TO:RI Development '
+title: 'Focusing On TO:RI Development '
 description: ''
 pubDate: 'Mar 6 2025'
 heroImage: ''

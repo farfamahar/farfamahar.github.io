@@ -1,5 +1,5 @@
 ---
-title: 'Make Games for an Audience of 1 '
+title: 'Make Games For An Audience of 1 '
 description: ''
 pubDate: 'Dec 23 2024'
 heroImage: ''
