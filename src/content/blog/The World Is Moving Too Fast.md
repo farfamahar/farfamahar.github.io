@@ -1,5 +1,5 @@
 ---
-title: 'The World Is Moving Too Fast '
+title: 'The World Is Moving Too Fast'
 description: ''
 pubDate: 'Aug 12 2026'
 heroImage: ''
@@ -15,6 +15,6 @@ This feeling of rapid movement lives offline too. I go to one big event and as s
 
 Whole industries are being completely uprooted, dismantled, and transformed. Everything someone learned a few years ago is irrelevant because the world does not want to slow down. You train one skill only for it to be replaced with a new skill a few months later. Being comfortable with a boring sought after skill has morphed into being uncomfortable all the time with infinite boring skills. It's no surprise that the sentiment to live alone in a forest is more prevalent. It's a comforting thought akin to being a child with no responsibilities or connection to a larger scarier world.
 
-I'm not saying anything revolutionary or different. I'm just expressing an unsettling feeling that seems to be getting louder. A deafening noise that I thought had reached an upper limit. There's no time to fully sink into an emotion. This speed of existence is not normal to me. I lack any type willpower to fight against this. I know what happiness looks like. It's when I step outside, away from all of this. Away from what this paradigm shift in culture has touched. It's not knowing and not caring about being anyone or anything. 
+I'm not saying anything revolutionary or different. I'm just expressing an unsettling feeling that seems to be getting louder. A deafening noise that I thought had reached an upper limit. There's no time to fully sink into an emotion. This speed of existence is not normal to me. I lack any type willpower to fight against this. I know what happiness looks like. It's when I step outside, away from all of this. Away from what this paradigm shift in culture has touched.
 
 I have almost found that joy. It just requires me to finally accept that many valuable things that I have ever gained in life will be lost in some way. It's accepting that I will be missing out on a lot of opportunities. My dream is to not fear any of that and to fully live a new branch of life. One with experiences, connections, and creations that I could never imagine before. This noise is about to destroy me, and it might finally be for the better.
