@@ -59,7 +59,16 @@ That was basically all of it. [We also all went on stage to present the awards](
 
 ![Farfama, Anan Fries, Antonin Fourneau, Julián Cordero Meghna Jayanth Tim Rogers on stage at the A MAZE 2026 award show](/jury-on-stage.jpg)
 
-It was a lot of work, but extremely fulfilling. A MAZE subsidizes travel costs, covers hotels, provides an honorarium, and took all the jury members to eat at a fancy pizza place. After everything, all my costs cancelled out, so it was nice not have to go into debt to be part of this. Being selected was a big confidence boost. Trying to keep my ego in check here, but it does feel nice to be recognized as having some type of influence on the culture of art games. This confidence transfers to all aspects of my life. Also really just loved exploring Berlin for the 2 weeks I was there. 
+Some tips for people submitting games to A MAZE (or any festival):
+- A lot of the nominations had great documentation. Technical riders (ie. setup requirements), images, statements, background info, video/illustration explanations, trailers. It was all presented in a visually interesting way too.
+- Don't use generative AI assets. It looks cheap and low effort.
+- You don't have to submit a fully finished game. You may also want to create a specific demo version for your submission to reduce the amount of friction needed to experience the game, or to highlight key aspects that make it unique. Show the potential of the game.
+- In contrast to the last point, don't make art specifically to win festival awards. Just make art you care about. Have artistic goals beyond getting awards. Success has many dimensions.
+- There were over 400 submissions this year. There easily could have been a completely different 25 games chosen of a similar diversity and quality. If you get rejected, don't take it too personally. Accept that you will get a lot of rejections as an artist. It's part of the process.
+
+A MAZE this year was a lot. On top of being a jury member I gave two talks, showed one game, and was part of a panel discussion. All of it was extremely fulfilling though. For the jury, A MAZE subsidizes travel costs (which scales up depending on how far you are), covers hotels, and provides an honorarium. After everything, all my costs cancelled out
+
+Trying to keep my ego in check here, but it does feel nice to be recognized as having some type of influence on the culture of art games. After everything, I came out of it with a new sense of confidence that transfers to all aspects of my life. I was so happy to talk with students, developers, artists, and researchers that found inspiration in my work. Also really loved exploring Berlin on my own for the 2 weeks I was there. 
 
 See you at the next A MAZE on May 5 - 8, 2027.
 
