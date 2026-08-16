@@ -66,9 +66,9 @@ Some tips for people submitting games to A MAZE (or any festival):
 - In contrast to the last point, don't make art specifically to win festival awards. Just make art you care about. Have artistic goals beyond getting awards. Success has many dimensions.
 - There were over 400 submissions this year. There easily could have been a completely different 25 games chosen of a similar diversity and quality. If you get rejected, don't take it too personally. Accept that you will get a lot of rejections as an artist. It's part of the process.
 
-A MAZE this year was a lot. On top of being a jury member I gave two talks, showed one game, and was part of a panel discussion. All of it was extremely fulfilling though. For the jury, A MAZE subsidizes travel costs (which scales up depending on how far you are), covers hotels, and provides an honorarium. After everything, all my costs cancelled out
+A MAZE this year was a lot. On top of being a jury member I gave two talks, showed one game, and was part of a panel discussion. All of it was extremely fulfilling though. For the jury, A MAZE subsidizes travel costs (which scales up depending on how far you are), covers hotels (and breakfast) during the festival, and provides an honorarium. This helped so much and reduced the stress of planning the trip.
 
-Trying to keep my ego in check here, but it does feel nice to be recognized as having some type of influence on the culture of art games. After everything, I came out of it with a new sense of confidence that transfers to all aspects of my life. I was so happy to talk with students, developers, artists, and researchers that found inspiration in my work. Also really loved exploring Berlin on my own for the 2 weeks I was there. 
+After everything, I came out of this with a new sense of confidence that transfers to all aspects of my life. Trying to keep my ego in check here, but it does feel nice to be recognized as having some type of influence on the culture of art games. I was so happy to talk with students, developers, researchers, and artists that found inspiration in my work. Mutual admiration everywhere.
 
 See you at the next A MAZE on May 5 - 8, 2027.
 
