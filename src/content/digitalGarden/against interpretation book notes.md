@@ -75,6 +75,7 @@ heroImage: ''
 	- YES YES YES
 
 # On Camp
+<p id="on-camp"> </p>
 
 "In naive, or pure, Camp, the essential element is seriousness, a seriousness that fails. Of course, not all seriousness that fails can be redeemed as Camp. Only that which has the proper mixture of the exaggerated, the fantastic, the passionate, and the naive."
 
