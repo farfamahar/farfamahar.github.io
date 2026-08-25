@@ -1,0 +1,173 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Sidebar from '../components/Sidebar.astro';
+
+// Game data remains unchanged
+const games = [
+  {
+    name: "Exhibit:Play",
+    images: ["/exhibit-play.webp"],
+    description: "Hyper-specific curated game collections and curations. Dedicated to discovering and sharing the patterns that exist beyond genres and algorithms.",
+	link: "https://www.exhibitplay.com",
+	credits:[{ text: "re:publica26 (Berlin, Germany) - 2026", link: "/republica" },
+			{ text: "A MAZE Berlin. (Berlin, Germany) - 2025", link: "/amaze-berlin-2025" },
+			{ text: "Games Art International Assembly (Barcelona, Spain) - 2025", link: "/gaia-2025" }
+	]
+  },
+    {
+    name: "Tokyo GÆMZ SHOW",
+    images: ["/gaemz/tgs2025_14sep.webp"],
+    description: "Coinciding with Tokyo Game Show, I organized an event focused on experimental games and talks. A call for speakers was announced, and 5 speakers shared a variety of topics. A total of 22 participants joined.",
+    link: "/tokyo-gaemz-show",
+	credits: [
+		{ text: "Shader work on the game Doom Spiral" },
+		{ text: "Building a not so game industry art game tech scene in Shanghai" },
+		{ text: "Plunderludics / Unityhawk" },
+		{ text: "Anti Gen AI watermarks" },
+		{ text: "Game Poems" }
+	]
+  }
+];
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title="Curation" description="Curation by Farfama" />
+		<style>
+
+			body {
+				font-family: Arial, sans-serif;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				font-size: 14px;
+				line-height: 1.6;
+				color: #333;
+				min-height: 100vh;
+
+			}
+			.content {
+				flex-grow: 1;
+				padding: 60px;
+				max-width: 1200px;
+				margin: 0 auto;
+				width: 100%;
+				box-sizing: border-box;
+			}
+			.game-section {
+				margin-bottom: 60px;
+			}
+			.game-title {
+				font-size: 24px;
+				margin-bottom: 20px;
+				font-family: 'Geist-Regular', sans-serif;
+
+
+			}
+			
+			.image-gallery {
+				display: flex;
+				overflow-x: auto;
+				gap: 20px;
+				margin-bottom: 20px;
+				padding-bottom: 10px;
+				-webkit-overflow-scrolling: touch;
+			}
+			.gallery-item {
+				flex: 0 0 auto;
+				width: 100%;
+				max-width: 533px;
+				height: 300px;
+			}
+			.gallery-video {
+				width: 100%;
+				height: 100%;
+			}
+			.gallery-image {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+			.game-description {
+				max-width: 600px;
+				font-family: 'Geist-Regular', sans-serif;
+				white-space: pre-wrap;
+
+			}
+			.game-credits {
+				margin-top: 12px;
+				max-width: 600px;
+			}
+			.game-credits ul {
+				margin: 4px 0 0 0;
+				padding-left: 20px;
+			}
+			@media (max-width: 768px) {
+				body {
+					flex-direction: column;
+				}
+				.content {
+					padding: 20px;
+				}
+				.game-title {
+					font-size: 20px;
+				}
+				.gallery-item {
+					height: 56.25vw; /* 16:9 aspect ratio */
+					max-height: 300px;
+				}
+				.game-description {
+					font-size: 14px;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Sidebar />
+		<div class="content">
+			{games.map((game) => (
+				<section class="game-section">
+					<h2 class="game-title">{game.name}</h2>
+					<div class="image-gallery">
+						<div class="gallery-item">
+							{/* {game.videoId ? (
+								<iframe
+									src={`https://www.youtube.com/embed/${game.videoId}`}
+									frameborder="0"
+									allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+									allowfullscreen
+									class="gallery-video"
+								></iframe>
+							) : ( */}
+								<img src={game.images[0]} alt={`Screenshot from ${game.name}`} class="gallery-image" />
+							{/* )} */}
+						</div>
+					</div>
+					<p class="game-description">{game.description}</p>
+					{ game.link ? (
+					<a href={game.link}>Link</a>
+					) : (
+						''
+					)
+					}
+					{ game.credits && game.credits.length > 0 && (
+						<div class="game-credits">
+							<strong>Talks</strong>
+							<ul>
+								{game.credits.map((credit: { text: string; link?: string }) => (
+									<li>
+										{credit.link ? (
+											<a href={credit.link}>{credit.text}</a>
+										) : (
+											<span>{credit.text}</span>
+										)}
+									</li>
+								))}
+							</ul>
+						</div>
+					)}
+				</section>
+			))}
+		</div>
+	</body>
+</html>

@@ -8,9 +8,9 @@ const currentPage = Astro.url.pathname; // Get the current URL path
             <li>
                 <a href="/projects" class={currentPage.startsWith('/projects') ? 'active' : ''} >Projects</a>
             </li>
-            <!-- <li>
-                <a href="/web" class={currentPage.startsWith('/web') ? 'active' : ''}>Web</a>
-            </li> -->
+             <li>
+                 <a href="/curation" class={currentPage.startsWith('/curation') ? 'active' : ''}>Curation</a>
+            </li> 
             <li>
                 <a href="/blog" class={currentPage.startsWith('/blog') ? 'active' : ''}>Blog</a>
             </li>
