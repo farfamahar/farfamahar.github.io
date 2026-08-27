@@ -22,7 +22,9 @@ Two of the people in our group are skilled at these games, while the other 3 rar
 ![Resident Evil 2 Remake Zombie Crowd](/resident-evil-2-remake-screenshot.webp)
 
 
-A skilled player kept the camera steady, and usually had a calm fight response to enemy encounters. When the less skilled players controlled Leon, camera controls were understandably tricky. The fear of an enemy became more terrifying when we entered this more shaky mode of play. Weapon switching became slower, and encounters were a mix of a messy fight and/or flight response. Suddenly Leon seemed to have lost his confidence in the hands of a new player. I don't know what you'd call this. Group Ludonarrative Player-Character Embodiment Dissonance? It makes me want to play more games with people of various skill levels. There's only so much the designers can do it make Leon seem like a confident hero. In the hands of us, we can make him forget how to use a weapon at any moment. "Okay, you have the grenade equipped now...press LB and RT to throw it...oh god..you threw it in front of you! RUUUN!!"
+A skilled player kept the camera steady, and usually had a calm fight response to enemy encounters. When the less skilled players controlled Leon, camera controls were understandably tricky. The fear of an enemy became more terrifying when we entered this more shaky mode of play. Weapon switching became slower, and encounters were a mix of a messy fight and/or flight response. Suddenly Leon seemed to have lost his confidence in the hands of a new player. 
+
+I don't know what you'd call this. Group Ludonarrative Player-Character Embodiment Dissonance? It makes me want to play more games with people of various skill levels. There's only so much the designers can do to make Leon seem like a confident hero. In the hands of us, we can make him forget how to use a weapon at any moment. "Okay, you have the grenade equipped now...press LB and RT to throw it...oh god..you threw it in front of you! RUUUN!!"
 
 ![Resident Evil 2 Remake Tyrant](/resident-evil-2-remake-explosion.webp)
 
