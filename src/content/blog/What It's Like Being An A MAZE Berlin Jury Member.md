@@ -30,7 +30,7 @@ Is the submission in general aesthetically pleasing to you and do the art discip
 >OVERALL AWESOMENESS\
 Is the submission an outstanding experience? Do you definitely have to share this work with your friends. E.g. like a cult movie, a wonderful thoughtful book, a life changing piece of art?
 
-I was a committee member last year, so I understand the process. The A MAZE award staff (not the jury) that eventually select the 25 games have to go through tons of committee reviews and curate based on another set of factors to ensure that there is a diverse lineup of games and artists being chosen. These 25 games are what the 5 jury members will be playing. We judge the games using the same suggested factors as well as our own personal factors, but we don't assign a point rating like the committee does.
+The A MAZE award staff (not the jury) that eventually select the 25 games have to go through tons of committee reviews and curate based on another set of factors to ensure that there is a diverse lineup of games and artists being chosen. These 25 games are what the 5 jury members will be playing. We judge the games using the same suggested factors as well as our own personal factors, but we don't assign a point rating like the committee does. I was chosen as a jury member because of my curation project [Exhibit:Play](https://exhibitplay.com/), my [experimental game dev practice](https://farfama.itch.io/), [community organizing](https://gaemz.carrd.co/), and for being a volunteer committee member in the past.
 
 The process for judging these games involves the following steps/rules:
 - Kickoff call discussing the process, meeting the other jury members
