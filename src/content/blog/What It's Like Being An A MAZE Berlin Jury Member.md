@@ -61,7 +61,7 @@ That was basically all of it. [We also all went on stage to present the awards](
 
 Some tips for people submitting games to A MAZE (or any festival):
 - A lot of the nominations had great documentation. Technical riders (ie. setup requirements), images, statements, background info, video/illustration explanations, trailers. It was all presented in a visually interesting way too.
-- Don't use generative AI assets. It looks cheap and low effort.
+- Don't use generative AI art assets. The thing with AI is that it is a big technological leap in many ways, so some artists may be compelled to explore its use in their work. One of the nominations used AI generated music which goes against my personal ethics of AI usage(they later replaced it with non AI music). Another used AI experimentally to critique the false narrative of AI, which feels more inline with what I consider artistic exploration of AI.
 - You don't have to submit a fully finished game. You may also want to create a specific demo version for your submission to reduce the amount of friction needed to experience the game, or to highlight key aspects that make it unique. Show the potential of the game.
 - In contrast to the last point, don't make art specifically to win festival awards. Just make art you care about. Have artistic goals beyond getting awards. Success has many dimensions.
 - There were over 400 submissions this year. There easily could have been a completely different 25 games chosen of a similar diversity and quality. If you get rejected, don't take it too personally. Accept that you will get a lot of rejections as an artist. It's part of the process.
