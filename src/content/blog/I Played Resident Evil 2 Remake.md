@@ -13,7 +13,7 @@ I recently read Susan Sontag's incredible essay On Camp, which talks about the v
 
 >When something is just bad (rather than Camp), it’s often because it is too mediocre in its ambition. The artist hasn’t attempted to do anything really outlandish. (“it’s too much”, “it’s too fantastic”, “it’s not to be believed”, are standard phrases of Camp enthusiasm)
 
-![susan sontag against interpretation book cover](/public/susan-sontag.jpg)
+![susan sontag against interpretation book cover](/susan-sontag.jpg)
 
 I enjoyed Resident Evil 2 for the same reason I enjoyed [Heavy Rain](/blog/i-played-heavy-rain). It's quality camp. It provides the material for shock, exasperation, laughs, sincerity, and confusion among many other contrasting feelings. These feelings thrive in a group setting, creating chains of in-jokes, commentary, and moments of metagaming. I played the game with a group of friends which I think is the only way I could fully enjoy this. 5 people of different levels of skill, all experiencing a campy adventure together. That made this more fun than I could imagine. 
 
