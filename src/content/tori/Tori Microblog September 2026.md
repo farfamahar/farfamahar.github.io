@@ -16,7 +16,7 @@ September.27/2026
 
 September.28/2026
 <br>
-- 2025 definitely is the year I lost almost all interest in video games^tm. 2026 it's still the same. It's mostly a waste of time to me. I finish a game and go "neat, anyways". Staring at a rock feels like a significantly more profound experience at this point in my life.
+- 2025 definitely is the year I lost almost all interest in video games^tm. I'm talking mostly about console made AAA games. 2026 it's still the same. It's mostly a waste of time to me. I finish a game and go "neat, anyways". Staring at a rock feels like a significantly more profound experience at this point in my life.
 
 
 
